@@ -10,8 +10,34 @@ from scipy.stats import skew, kurtosis
 from pickle import dump
 from tqdm import tqdm
 # Function to extract features from a given trace
-def extract_features(trace):
+def extract_features(trace, file_name):
+    start_time = trace.stats.starttime
+    end_time = trace.stats.endtime
+    network =  trace.stats.network
+    station = trace.stats.station
+    channel = trace.stats.channel
+    location =  trace.stats.location
+    sampling_rate = trace.stats.sampling_rate
+    samples_num = trace.stats.npts
+    features = {
+        'network' :  network,
+        'station' : station,
+        'channel' : channel,
+        'location' :  location,
+        'locID.CHA' : f'{location}.{channel}',
+        'start_time': start_time,
+        'end_time': end_time,
+        'sampling_rate' : sampling_rate, 
+        'num_of_samples' : samples_num,
+        'file_name': file_name
+        #'data': trace.data
+}
+  
+    return features
+def feature_engineering(trace, file_name):
     data = trace.data
+    channel = trace.stats.channel
+    location =  trace.stats.location
     data = data.astype(np.float64)
     # Statistical features
     mean_val = np.mean(data)
@@ -29,14 +55,12 @@ def extract_features(trace):
     energy = np.sum(data ** 2)
     start_time = trace.stats.starttime
     end_time = trace.stats.endtime
-    network =  trace.stats.network
     station = trace.stats.station
-    channel = trace.stats.channel
-    location =  trace.stats.location
     sampling_rate = trace.stats.sampling_rate
     samples_num = trace.stats.npts
     features = {
-        'network' :  network,
+        'file_name': file_name,
+        'locID.CHA' : f'{location}.{channel}',
         'station' : station,
         'channel' : channel,
         'location' :  location,
@@ -52,7 +76,6 @@ def extract_features(trace):
         'fft_std': fft_std,
         'energy': energy,
 }
-  
     return features
 def mkdir(dir):
     if not os.path.exists(dir):
