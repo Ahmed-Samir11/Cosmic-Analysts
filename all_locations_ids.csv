@@ -1,0 +1,968 @@
+Channel,LocID Root,Baseline,Band,Inst. Code,Orien. Code,sps,LocID,Chan Code,locID.CHA
+2,VBB 1 Velocity High Gain Science mode,00,Transmitted raw data,H,H,U,100,00,HHU,00.HHU
+3,VBB 1 Velocity High Gain Science mode,00,Transmitted raw data,B,H,U,50,00,BHU,00.BHU
+4,VBB 1 Velocity High Gain Science mode,00,Transmitted raw data,B,H,U,25,01,BHU,01.BHU
+5,VBB 1 Velocity High Gain Science mode,00,Transmitted raw data,B,H,U,20,02,BHU,02.BHU
+6,VBB 1 Velocity High Gain Science mode,00,Transmitted raw data,B,H,U,10,03,BHU,03.BHU
+7,VBB 1 Velocity High Gain Science mode,00,Transmitted raw data,M,H,U,5,00,MHU,00.MHU
+8,VBB 1 Velocity High Gain Science mode,00,Transmitted raw data,M,H,U,4,01,MHU,01.MHU
+9,VBB 1 Velocity High Gain Science mode,00,Transmitted raw data,M,H,U,2,02,MHU,02.MHU
+10,VBB 1 Velocity High Gain Science mode,00,Transmitted raw data,L,H,U,1,00,LHU,00.LHU
+11,VBB 1 Velocity Low Gain Science mode,05,Transmitted raw data,H,L,U,100,05,HLU,05.HLU
+12,VBB 1 Velocity Low Gain Science mode,05,Transmitted raw data,B,L,U,50,05,BLU,05.BLU
+13,VBB 1 Velocity Low Gain Science mode,05,Transmitted raw data,B,L,U,25,06,BLU,06.BLU
+14,VBB 1 Velocity Low Gain Science mode,05,Transmitted raw data,B,L,U,20,07,BLU,07.BLU
+15,VBB 1 Velocity Low Gain Science mode,05,Transmitted raw data,B,L,U,10,08,BLU,08.BLU
+16,VBB 1 Velocity Low Gain Science mode,05,Transmitted raw data,M,L,U,5,05,MLU,05.MLU
+17,VBB 1 Velocity Low Gain Science mode,05,Transmitted raw data,M,L,U,4,06,MLU,06.MLU
+18,VBB 1 Velocity Low Gain Science mode,05,Transmitted raw data,M,L,U,2,07,MLU,07.MLU
+19,VBB 1 Velocity Low Gain Science mode,05,Transmitted raw data,L,L,U,1,05,LLU,05.LLU
+20,VBB 1 Velocity High Gain Engin. mode,10,Transmitted raw data,H,H,U,100,10,HHU,10.HHU
+21,VBB 1 Velocity High Gain Engin. mode,10,Transmitted raw data,B,H,U,50,10,BHU,10.BHU
+22,VBB 1 Velocity High Gain Engin. mode,10,Transmitted raw data,B,H,U,25,11,BHU,11.BHU
+23,VBB 1 Velocity High Gain Engin. mode,10,Transmitted raw data,B,H,U,20,12,BHU,12.BHU
+24,VBB 1 Velocity High Gain Engin. mode,10,Transmitted raw data,B,H,U,10,13,BHU,13.BHU
+25,VBB 1 Velocity High Gain Engin. mode,10,Transmitted raw data,M,H,U,5,10,MHU,10.MHU
+26,VBB 1 Velocity High Gain Engin. mode,10,Transmitted raw data,M,H,U,4,11,MHU,11.MHU
+27,VBB 1 Velocity High Gain Engin. mode,10,Transmitted raw data,M,H,U,2,12,MHU,12.MHU
+28,VBB 1 Velocity High Gain Engin. mode,10,Transmitted raw data,L,H,U,1,10,LHU,10.LHU
+29,VBB 1 Velocity Low Gain Engin. mode,15,Transmitted raw data,H,L,U,100,15,HLU,15.HLU
+30,VBB 1 Velocity Low Gain Engin. mode,15,Transmitted raw data,B,L,U,50,15,BLU,15.BLU
+31,VBB 1 Velocity Low Gain Engin. mode,15,Transmitted raw data,B,L,U,25,16,BLU,16.BLU
+32,VBB 1 Velocity Low Gain Engin. mode,15,Transmitted raw data,B,L,U,20,17,BLU,17.BLU
+33,VBB 1 Velocity Low Gain Engin. mode,15,Transmitted raw data,B,L,U,10,18,BLU,18.BLU
+34,VBB 1 Velocity Low Gain Engin. mode,15,Transmitted raw data,M,L,U,5,15,MLU,15.MLU
+35,VBB 1 Velocity Low Gain Engin. mode,15,Transmitted raw data,M,L,U,4,16,MLU,16.MLU
+36,VBB 1 Velocity Low Gain Engin. mode,15,Transmitted raw data,M,L,U,2,17,MLU,17.MLU
+37,VBB 1 Velocity Low Gain Engin. mode,15,Transmitted raw data,L,L,U,1,15,LLU,15.LLU
+38,VBB 1 Position High Gain Science mode,00,Transmitted raw data,L,M,U,1,00,LMU,00.LMU
+39,VBB 1 Position High Gain Science mode,00,Transmitted raw data,V,M,U,0.5,00,VMU,00.VMU
+40,VBB 1 Position High Gain Science mode,00,Transmitted raw data,V,M,U,0.25,01,VMU,01.VMU
+41,VBB 1 Position High Gain Science mode,00,Transmitted raw data,V,M,U,0.2,02,VMU,02.VMU
+42,VBB 1 Position High Gain Science mode,00,Transmitted raw data,V,M,U,0.1,03,VMU,03.VMU
+43,VBB 1 Position High Gain Science mode,00,Transmitted raw data,U,M,U,0.05,00,UMU,00.UMU
+44,VBB 1 Position High Gain Science mode,00,Transmitted raw data,U,M,U,0.025,01,UMU,01.UMU
+45,VBB 1 Position High Gain Science mode,00,Transmitted raw data,U,M,U,0.02,02,UMU,02.UMU
+46,VBB 1 Position High Gain Science mode,00,Transmitted raw data,U,M,U,0.01,03,UMU,03.UMU
+47,VBB 1 Position High Gain Science mode,00,Transmitted raw data,R,M,U,0.005,00,RMU,00.RMU
+48,VBB 1 Position High Gain Science mode,00,Transmitted raw data,R,M,U,0.001,01,RMU,01.RMU
+49,VBB 1 Position High Gain Science mode,00,Transmitted raw data,R,M,U,1/1800,02,RMU,02.RMU
+50,VBB 1 Position High Gain Science mode,00,Transmitted raw data,R,M,U,1/3600,03,RMU,03.RMU
+51,VBB 1 Position Low Gain Science mode,05,Transmitted raw data,L,M,U,1,05,LMU,05.LMU
+52,VBB 1 Position Low Gain Science mode,05,Transmitted raw data,V,M,U,0.5,05,VMU,05.VMU
+53,VBB 1 Position Low Gain Science mode,05,Transmitted raw data,V,M,U,0.25,06,VMU,06.VMU
+54,VBB 1 Position Low Gain Science mode,05,Transmitted raw data,V,M,U,0.2,07,VMU,07.VMU
+55,VBB 1 Position Low Gain Science mode,05,Transmitted raw data,V,M,U,0.1,08,VMU,08.VMU
+56,VBB 1 Position Low Gain Science mode,05,Transmitted raw data,U,M,U,0.05,05,UMU,05.UMU
+57,VBB 1 Position Low Gain Science mode,05,Transmitted raw data,U,M,U,0.025,06,UMU,06.UMU
+58,VBB 1 Position Low Gain Science mode,05,Transmitted raw data,U,M,U,0.02,07,UMU,07.UMU
+59,VBB 1 Position Low Gain Science mode,05,Transmitted raw data,U,M,U,0.01,08,UMU,08.UMU
+60,VBB 1 Position Low Gain Science mode,05,Transmitted raw data,R,M,U,0.005,05,RMU,05.RMU
+61,VBB 1 Position Low Gain Science mode,05,Transmitted raw data,R,M,U,0.001,06,RMU,06.RMU
+62,VBB 1 Position Low Gain Science mode,05,Transmitted raw data,R,M,U,1/1800,07,RMU,07.RMU
+63,VBB 1 Position Low Gain Science mode,05,Transmitted raw data,R,M,U,1/3600,08,RMU,08.RMU
+64,VBB 1 Position High Gain Engin. mode,10,Transmitted raw data,L,M,U,1,10,LMU,10.LMU
+65,VBB 1 Position High Gain Engin. mode,10,Transmitted raw data,V,M,U,0.5,10,VMU,10.VMU
+66,VBB 1 Position High Gain Engin. mode,10,Transmitted raw data,V,M,U,0.25,11,VMU,11.VMU
+67,VBB 1 Position High Gain Engin. mode,10,Transmitted raw data,V,M,U,0.2,12,VMU,12.VMU
+68,VBB 1 Position High Gain Engin. mode,10,Transmitted raw data,V,M,U,0.1,13,VMU,13.VMU
+69,VBB 1 Position High Gain Engin. mode,10,Transmitted raw data,U,M,U,0.05,10,UMU,10.UMU
+70,VBB 1 Position High Gain Engin. mode,10,Transmitted raw data,U,M,U,0.025,11,UMU,11.UMU
+71,VBB 1 Position High Gain Engin. mode,10,Transmitted raw data,U,M,U,0.02,12,UMU,12.UMU
+72,VBB 1 Position High Gain Engin. mode,10,Transmitted raw data,U,M,U,0.01,13,UMU,13.UMU
+73,VBB 1 Position High Gain Engin. mode,10,Transmitted raw data,R,M,U,0.005,10,RMU,10.RMU
+74,VBB 1 Position High Gain Engin. mode,10,Transmitted raw data,R,M,U,0.001,11,RMU,11.RMU
+75,VBB 1 Position High Gain Engin. mode,10,Transmitted raw data,R,M,U,1/1800,12,RMU,12.RMU
+76,VBB 1 Position High Gain Engin. mode,10,Transmitted raw data,R,M,U,1/3600,13,RMU,13.RMU
+77,VBB 1 Position Low Gain Engin. mode,15,Transmitted raw data,L,M,U,1,15,LMU,15.LMU
+78,VBB 1 Position Low Gain Engin. mode,15,Transmitted raw data,V,M,U,0.5,15,VMU,15.VMU
+79,VBB 1 Position Low Gain Engin. mode,15,Transmitted raw data,V,M,U,0.25,16,VMU,16.VMU
+80,VBB 1 Position Low Gain Engin. mode,15,Transmitted raw data,V,M,U,0.2,17,VMU,17.VMU
+81,VBB 1 Position Low Gain Engin. mode,15,Transmitted raw data,V,M,U,0.1,18,VMU,18.VMU
+82,VBB 1 Position Low Gain Engin. mode,15,Transmitted raw data,U,M,U,0.05,15,UMU,15.UMU
+83,VBB 1 Position Low Gain Engin. mode,15,Transmitted raw data,U,M,U,0.025,16,UMU,16.UMU
+84,VBB 1 Position Low Gain Engin. mode,15,Transmitted raw data,U,M,U,0.02,17,UMU,17.UMU
+85,VBB 1 Position Low Gain Engin. mode,15,Transmitted raw data,U,M,U,0.01,18,UMU,18.UMU
+86,VBB 1 Position Low Gain Engin. mode,15,Transmitted raw data,R,M,U,0.005,15,RMU,15.RMU
+87,VBB 1 Position Low Gain Engin. mode,15,Transmitted raw data,R,M,U,0.001,16,RMU,16.RMU
+88,VBB 1 Position Low Gain Engin. mode,15,Transmitted raw data,R,M,U,1/1800,17,RMU,17.RMU
+89,VBB 1 Position Low Gain Engin. mode,15,Transmitted raw data,R,M,U,1/3600,18,RMU,18.RMU
+90,VBB 1 Temperature,00,Transmitted raw data,L,K,U,1,00,LKU,00.LKU
+91,VBB 1 Temperature,00,Transmitted raw data,V,K,U,0.5,00,VKU,00.VKU
+92,VBB 1 Temperature,00,Transmitted raw data,V,K,U,0.25,01,VKU,01.VKU
+93,VBB 1 Temperature,00,Transmitted raw data,V,K,U,0.2,02,VKU,02.VKU
+94,VBB 1 Temperature,00,Transmitted raw data,V,K,U,0.1,03,VKU,03.VKU
+95,VBB 1 Temperature,00,Transmitted raw data,U,K,U,0.05,00,UKU,00.UKU
+96,VBB 1 Temperature,00,Transmitted raw data,U,K,U,0.025,01,UKU,01.UKU
+97,VBB 1 Temperature,00,Transmitted raw data,U,K,U,0.02,02,UKU,02.UKU
+98,VBB 1 Temperature,00,Transmitted raw data,U,K,U,0.01,03,UKU,03.UKU
+99,VBB 1 Temperature,00,Transmitted raw data,R,K,U,0.005,00,RKU,00.RKU
+100,VBB 1 Temperature,00,Transmitted raw data,R,K,U,0.001,01,RKU,01.RKU
+101,VBB 1 Temperature,00,Transmitted raw data,R,K,U,1/1800,02,RKU,02.RKU
+102,VBB 1 Temperature,00,Transmitted raw data,R,K,U,1/3600,03,RKU,03.RKU
+103,VBB 2 Velocity High Gain Science mode,00,Transmitted raw data,H,H,V,100,00,HHV,00.HHV
+104,VBB 2 Velocity High Gain Science mode,00,Transmitted raw data,B,H,V,50,00,BHV,00.BHV
+105,VBB 2 Velocity High Gain Science mode,00,Transmitted raw data,B,H,V,25,01,BHV,01.BHV
+106,VBB 2 Velocity High Gain Science mode,00,Transmitted raw data,B,H,V,20,02,BHV,02.BHV
+107,VBB 2 Velocity High Gain Science mode,00,Transmitted raw data,B,H,V,10,03,BHV,03.BHV
+108,VBB 2 Velocity High Gain Science mode,00,Transmitted raw data,M,H,V,5,00,MHV,00.MHV
+109,VBB 2 Velocity High Gain Science mode,00,Transmitted raw data,M,H,V,4,01,MHV,01.MHV
+110,VBB 2 Velocity High Gain Science mode,00,Transmitted raw data,M,H,V,2,02,MHV,02.MHV
+111,VBB 2 Velocity High Gain Science mode,00,Transmitted raw data,L,H,V,1,00,LHV,00.LHV
+112,VBB 2 Velocity Low Gain Science mode,05,Transmitted raw data,H,L,V,100,05,HLV,05.HLV
+113,VBB 2 Velocity Low Gain Science mode,05,Transmitted raw data,B,L,V,50,05,BLV,05.BLV
+114,VBB 2 Velocity Low Gain Science mode,05,Transmitted raw data,B,L,V,25,06,BLV,06.BLV
+115,VBB 2 Velocity Low Gain Science mode,05,Transmitted raw data,B,L,V,20,07,BLV,07.BLV
+116,VBB 2 Velocity Low Gain Science mode,05,Transmitted raw data,B,L,V,10,08,BLV,08.BLV
+117,VBB 2 Velocity Low Gain Science mode,05,Transmitted raw data,M,L,V,5,05,MLV,05.MLV
+118,VBB 2 Velocity Low Gain Science mode,05,Transmitted raw data,M,L,V,4,06,MLV,06.MLV
+119,VBB 2 Velocity Low Gain Science mode,05,Transmitted raw data,M,L,V,2,07,MLV,07.MLV
+120,VBB 2 Velocity Low Gain Science mode,05,Transmitted raw data,L,L,V,1,05,LLV,05.LLV
+121,VBB 2 Velocity High Gain Engin. mode,10,Transmitted raw data,H,H,V,100,10,HHV,10.HHV
+122,VBB 2 Velocity High Gain Engin. mode,10,Transmitted raw data,B,H,V,50,10,BHV,10.BHV
+123,VBB 2 Velocity High Gain Engin. mode,10,Transmitted raw data,B,H,V,25,11,BHV,11.BHV
+124,VBB 2 Velocity High Gain Engin. mode,10,Transmitted raw data,B,H,V,20,12,BHV,12.BHV
+125,VBB 2 Velocity High Gain Engin. mode,10,Transmitted raw data,B,H,V,10,13,BHV,13.BHV
+126,VBB 2 Velocity High Gain Engin. mode,10,Transmitted raw data,M,H,V,5,10,MHV,10.MHV
+127,VBB 2 Velocity High Gain Engin. mode,10,Transmitted raw data,M,H,V,4,11,MHV,11.MHV
+128,VBB 2 Velocity High Gain Engin. mode,10,Transmitted raw data,M,H,V,2,12,MHV,12.MHV
+129,VBB 2 Velocity High Gain Engin. mode,10,Transmitted raw data,L,H,V,1,10,LHV,10.LHV
+130,VBB 2 Velocity Low Gain Engin. mode,15,Transmitted raw data,H,L,V,100,15,HLV,15.HLV
+131,VBB 2 Velocity Low Gain Engin. mode,15,Transmitted raw data,B,L,V,50,15,BLV,15.BLV
+132,VBB 2 Velocity Low Gain Engin. mode,15,Transmitted raw data,B,L,V,25,16,BLV,16.BLV
+133,VBB 2 Velocity Low Gain Engin. mode,15,Transmitted raw data,B,L,V,20,17,BLV,17.BLV
+134,VBB 2 Velocity Low Gain Engin. mode,15,Transmitted raw data,B,L,V,10,18,BLV,18.BLV
+135,VBB 2 Velocity Low Gain Engin. mode,15,Transmitted raw data,M,L,V,5,15,MLV,15.MLV
+136,VBB 2 Velocity Low Gain Engin. mode,15,Transmitted raw data,M,L,V,4,16,MLV,16.MLV
+137,VBB 2 Velocity Low Gain Engin. mode,15,Transmitted raw data,M,L,V,2,17,MLV,17.MLV
+138,VBB 2 Velocity Low Gain Engin. mode,15,Transmitted raw data,L,L,V,1,15,LLV,15.LLV
+139,VBB 2 Position High Gain Science mode,00,Transmitted raw data,L,M,V,1,00,LMV,00.LMV
+140,VBB 2 Position High Gain Science mode,00,Transmitted raw data,V,M,V,0.5,00,VMV,00.VMV
+141,VBB 2 Position High Gain Science mode,00,Transmitted raw data,V,M,V,0.25,01,VMV,01.VMV
+142,VBB 2 Position High Gain Science mode,00,Transmitted raw data,V,M,V,0.2,02,VMV,02.VMV
+143,VBB 2 Position High Gain Science mode,00,Transmitted raw data,V,M,V,0.1,03,VMV,03.VMV
+144,VBB 2 Position High Gain Science mode,00,Transmitted raw data,U,M,V,0.05,00,UMV,00.UMV
+145,VBB 2 Position High Gain Science mode,00,Transmitted raw data,U,M,V,0.025,01,UMV,01.UMV
+146,VBB 2 Position High Gain Science mode,00,Transmitted raw data,U,M,V,0.02,02,UMV,02.UMV
+147,VBB 2 Position High Gain Science mode,00,Transmitted raw data,U,M,V,0.01,03,UMV,03.UMV
+148,VBB 2 Position High Gain Science mode,00,Transmitted raw data,R,M,V,0.005,00,RMV,00.RMV
+149,VBB 2 Position High Gain Science mode,00,Transmitted raw data,R,M,V,0.001,01,RMV,01.RMV
+150,VBB 2 Position High Gain Science mode,00,Transmitted raw data,R,M,V,1/1800,02,RMV,02.RMV
+151,VBB 2 Position High Gain Science mode,00,Transmitted raw data,R,M,V,1/3600,03,RMV,03.RMV
+152,VBB 2 Position Low Gain Science mode,05,Transmitted raw data,L,M,V,1,05,LMV,05.LMV
+153,VBB 2 Position Low Gain Science mode,05,Transmitted raw data,V,M,V,0.5,05,VMV,05.VMV
+154,VBB 2 Position Low Gain Science mode,05,Transmitted raw data,V,M,V,0.25,06,VMV,06.VMV
+155,VBB 2 Position Low Gain Science mode,05,Transmitted raw data,V,M,V,0.2,07,VMV,07.VMV
+156,VBB 2 Position Low Gain Science mode,05,Transmitted raw data,V,M,V,0.1,08,VMV,08.VMV
+157,VBB 2 Position Low Gain Science mode,05,Transmitted raw data,U,M,V,0.05,05,UMV,05.UMV
+158,VBB 2 Position Low Gain Science mode,05,Transmitted raw data,U,M,V,0.025,06,UMV,06.UMV
+159,VBB 2 Position Low Gain Science mode,05,Transmitted raw data,U,M,V,0.02,07,UMV,07.UMV
+160,VBB 2 Position Low Gain Science mode,05,Transmitted raw data,U,M,V,0.01,08,UMV,08.UMV
+161,VBB 2 Position Low Gain Science mode,05,Transmitted raw data,R,M,V,0.005,05,RMV,05.RMV
+162,VBB 2 Position Low Gain Science mode,05,Transmitted raw data,R,M,V,0.001,06,RMV,06.RMV
+163,VBB 2 Position Low Gain Science mode,05,Transmitted raw data,R,M,V,1/1800,07,RMV,07.RMV
+164,VBB 2 Position Low Gain Science mode,05,Transmitted raw data,R,M,V,1/3600,08,RMV,08.RMV
+165,VBB 2 Position High Gain Engin. mode,10,Transmitted raw data,L,M,V,1,10,LMV,10.LMV
+166,VBB 2 Position High Gain Engin. mode,10,Transmitted raw data,V,M,V,0.5,10,VMV,10.VMV
+167,VBB 2 Position High Gain Engin. mode,10,Transmitted raw data,V,M,V,0.25,11,VMV,11.VMV
+168,VBB 2 Position High Gain Engin. mode,10,Transmitted raw data,V,M,V,0.2,12,VMV,12.VMV
+169,VBB 2 Position High Gain Engin. mode,10,Transmitted raw data,V,M,V,0.1,13,VMV,13.VMV
+170,VBB 2 Position High Gain Engin. mode,10,Transmitted raw data,U,M,V,0.05,10,UMV,10.UMV
+171,VBB 2 Position High Gain Engin. mode,10,Transmitted raw data,U,M,V,0.025,11,UMV,11.UMV
+172,VBB 2 Position High Gain Engin. mode,10,Transmitted raw data,U,M,V,0.02,12,UMV,12.UMV
+173,VBB 2 Position High Gain Engin. mode,10,Transmitted raw data,U,M,V,0.01,13,UMV,13.UMV
+174,VBB 2 Position High Gain Engin. mode,10,Transmitted raw data,R,M,V,0.005,10,RMV,10.RMV
+175,VBB 2 Position High Gain Engin. mode,10,Transmitted raw data,R,M,V,0.001,11,RMV,11.RMV
+176,VBB 2 Position High Gain Engin. mode,10,Transmitted raw data,R,M,V,1/1800,12,RMV,12.RMV
+177,VBB 2 Position High Gain Engin. mode,10,Transmitted raw data,R,M,V,1/3600,13,RMV,13.RMV
+178,VBB 2 Position Low Gain Engin. mode,15,Transmitted raw data,L,M,V,1,15,LMV,15.LMV
+179,VBB 2 Position Low Gain Engin. mode,15,Transmitted raw data,V,M,V,0.5,15,VMV,15.VMV
+180,VBB 2 Position Low Gain Engin. mode,15,Transmitted raw data,V,M,V,0.25,16,VMV,16.VMV
+181,VBB 2 Position Low Gain Engin. mode,15,Transmitted raw data,V,M,V,0.2,17,VMV,17.VMV
+182,VBB 2 Position Low Gain Engin. mode,15,Transmitted raw data,V,M,V,0.1,18,VMV,18.VMV
+183,VBB 2 Position Low Gain Engin. mode,15,Transmitted raw data,U,M,V,0.05,15,UMV,15.UMV
+184,VBB 2 Position Low Gain Engin. mode,15,Transmitted raw data,U,M,V,0.025,16,UMV,16.UMV
+185,VBB 2 Position Low Gain Engin. mode,15,Transmitted raw data,U,M,V,0.02,17,UMV,17.UMV
+186,VBB 2 Position Low Gain Engin. mode,15,Transmitted raw data,U,M,V,0.01,18,UMV,18.UMV
+187,VBB 2 Position Low Gain Engin. mode,15,Transmitted raw data,R,M,V,0.005,15,RMV,15.RMV
+188,VBB 2 Position Low Gain Engin. mode,15,Transmitted raw data,R,M,V,0.001,16,RMV,16.RMV
+189,VBB 2 Position Low Gain Engin. mode,15,Transmitted raw data,R,M,V,1/1800,17,RMV,17.RMV
+190,VBB 2 Position Low Gain Engin. mode,15,Transmitted raw data,R,M,V,1/3600,18,RMV,18.RMV
+191,VBB 2 Temperature,00,Transmitted raw data,L,K,V,1,00,LKV,00.LKV
+192,VBB 2 Temperature,00,Transmitted raw data,V,K,V,0.5,00,VKV,00.VKV
+193,VBB 2 Temperature,00,Transmitted raw data,V,K,V,0.25,01,VKV,01.VKV
+194,VBB 2 Temperature,00,Transmitted raw data,V,K,V,0.2,02,VKV,02.VKV
+195,VBB 2 Temperature,00,Transmitted raw data,V,K,V,0.1,03,VKV,03.VKV
+196,VBB 2 Temperature,00,Transmitted raw data,U,K,V,0.05,00,UKV,00.UKV
+197,VBB 2 Temperature,00,Transmitted raw data,U,K,V,0.025,01,UKV,01.UKV
+198,VBB 2 Temperature,00,Transmitted raw data,U,K,V,0.02,02,UKV,02.UKV
+199,VBB 2 Temperature,00,Transmitted raw data,U,K,V,0.01,03,UKV,03.UKV
+200,VBB 2 Temperature,00,Transmitted raw data,R,K,V,0.005,00,RKV,00.RKV
+201,VBB 2 Temperature,00,Transmitted raw data,R,K,V,0.001,01,RKV,01.RKV
+202,VBB 2 Temperature,00,Transmitted raw data,R,K,V,1/1800,02,RKV,02.RKV
+203,VBB 2 Temperature,00,Transmitted raw data,R,K,V,1/3600,03,RKV,03.RKV
+204,VBB 3 Velocity High Gain Science mode,00,Transmitted raw data,H,H,W,100,00,HHW,00.HHW
+205,VBB 3 Velocity High Gain Science mode,00,Transmitted raw data,B,H,W,50,00,BHW,00.BHW
+206,VBB 3 Velocity High Gain Science mode,00,Transmitted raw data,B,H,W,25,01,BHW,01.BHW
+207,VBB 3 Velocity High Gain Science mode,00,Transmitted raw data,B,H,W,20,02,BHW,02.BHW
+208,VBB 3 Velocity High Gain Science mode,00,Transmitted raw data,B,H,W,10,03,BHW,03.BHW
+209,VBB 3 Velocity High Gain Science mode,00,Transmitted raw data,M,H,W,5,00,MHW,00.MHW
+210,VBB 3 Velocity High Gain Science mode,00,Transmitted raw data,M,H,W,4,01,MHW,01.MHW
+211,VBB 3 Velocity High Gain Science mode,00,Transmitted raw data,M,H,W,2,02,MHW,02.MHW
+212,VBB 3 Velocity High Gain Science mode,00,Transmitted raw data,L,H,W,1,00,LHW,00.LHW
+213,VBB 3 Velocity Low Gain Science mode,05,Transmitted raw data,H,L,W,100,05,HLW,05.HLW
+214,VBB 3 Velocity Low Gain Science mode,05,Transmitted raw data,B,L,W,50,05,BLW,05.BLW
+215,VBB 3 Velocity Low Gain Science mode,05,Transmitted raw data,B,L,W,25,06,BLW,06.BLW
+216,VBB 3 Velocity Low Gain Science mode,05,Transmitted raw data,B,L,W,20,07,BLW,07.BLW
+217,VBB 3 Velocity Low Gain Science mode,05,Transmitted raw data,B,L,W,10,08,BLW,08.BLW
+218,VBB 3 Velocity Low Gain Science mode,05,Transmitted raw data,M,L,W,5,05,MLW,05.MLW
+219,VBB 3 Velocity Low Gain Science mode,05,Transmitted raw data,M,L,W,4,06,MLW,06.MLW
+220,VBB 3 Velocity Low Gain Science mode,05,Transmitted raw data,M,L,W,2,07,MLW,07.MLW
+221,VBB 3 Velocity Low Gain Science mode,05,Transmitted raw data,L,L,W,1,05,LLW,05.LLW
+222,VBB 3 Velocity High Gain Engin. mode,10,Transmitted raw data,H,H,W,100,10,HHW,10.HHW
+223,VBB 3 Velocity High Gain Engin. mode,10,Transmitted raw data,B,H,W,50,10,BHW,10.BHW
+224,VBB 3 Velocity High Gain Engin. mode,10,Transmitted raw data,B,H,W,25,11,BHW,11.BHW
+225,VBB 3 Velocity High Gain Engin. mode,10,Transmitted raw data,B,H,W,20,12,BHW,12.BHW
+226,VBB 3 Velocity High Gain Engin. mode,10,Transmitted raw data,B,H,W,10,13,BHW,13.BHW
+227,VBB 3 Velocity High Gain Engin. mode,10,Transmitted raw data,M,H,W,5,10,MHW,10.MHW
+228,VBB 3 Velocity High Gain Engin. mode,10,Transmitted raw data,M,H,W,4,11,MHW,11.MHW
+229,VBB 3 Velocity High Gain Engin. mode,10,Transmitted raw data,M,H,W,2,12,MHW,12.MHW
+230,VBB 3 Velocity High Gain Engin. mode,10,Transmitted raw data,L,H,W,1,10,LHW,10.LHW
+231,VBB 3 Velocity Low Gain Engin. mode,15,Transmitted raw data,H,L,W,100,15,HLW,15.HLW
+232,VBB 3 Velocity Low Gain Engin. mode,15,Transmitted raw data,B,L,W,50,15,BLW,15.BLW
+233,VBB 3 Velocity Low Gain Engin. mode,15,Transmitted raw data,B,L,W,25,16,BLW,16.BLW
+234,VBB 3 Velocity Low Gain Engin. mode,15,Transmitted raw data,B,L,W,20,17,BLW,17.BLW
+235,VBB 3 Velocity Low Gain Engin. mode,15,Transmitted raw data,B,L,W,10,18,BLW,18.BLW
+236,VBB 3 Velocity Low Gain Engin. mode,15,Transmitted raw data,M,L,W,5,15,MLW,15.MLW
+237,VBB 3 Velocity Low Gain Engin. mode,15,Transmitted raw data,M,L,W,4,16,MLW,16.MLW
+238,VBB 3 Velocity Low Gain Engin. mode,15,Transmitted raw data,M,L,W,2,17,MLW,17.MLW
+239,VBB 3 Velocity Low Gain Engin. mode,15,Transmitted raw data,L,L,W,1,15,LLW,15.LLW
+240,VBB 3 Position High Gain Science mode,00,Transmitted raw data,L,M,W,1,00,LMW,00.LMW
+241,VBB 3 Position High Gain Science mode,00,Transmitted raw data,V,M,W,0.5,00,VMW,00.VMW
+242,VBB 3 Position High Gain Science mode,00,Transmitted raw data,V,M,W,0.25,01,VMW,01.VMW
+243,VBB 3 Position High Gain Science mode,00,Transmitted raw data,V,M,W,0.2,02,VMW,02.VMW
+244,VBB 3 Position High Gain Science mode,00,Transmitted raw data,V,M,W,0.1,03,VMW,03.VMW
+245,VBB 3 Position High Gain Science mode,00,Transmitted raw data,U,M,W,0.05,00,UMW,00.UMW
+246,VBB 3 Position High Gain Science mode,00,Transmitted raw data,U,M,W,0.025,01,UMW,01.UMW
+247,VBB 3 Position High Gain Science mode,00,Transmitted raw data,U,M,W,0.02,02,UMW,02.UMW
+248,VBB 3 Position High Gain Science mode,00,Transmitted raw data,U,M,W,0.01,03,UMW,03.UMW
+249,VBB 3 Position High Gain Science mode,00,Transmitted raw data,R,M,W,0.005,00,RMW,00.RMW
+250,VBB 3 Position High Gain Science mode,00,Transmitted raw data,R,M,W,0.001,01,RMW,01.RMW
+251,VBB 3 Position High Gain Science mode,00,Transmitted raw data,R,M,W,1/1800,02,RMW,02.RMW
+252,VBB 3 Position High Gain Science mode,00,Transmitted raw data,R,M,W,1/3600,03,RMW,03.RMW
+253,VBB 3 Position Low Gain Science mode,05,Transmitted raw data,L,M,W,1,05,LMW,05.LMW
+254,VBB 3 Position Low Gain Science mode,05,Transmitted raw data,V,M,W,0.5,05,VMW,05.VMW
+255,VBB 3 Position Low Gain Science mode,05,Transmitted raw data,V,M,W,0.25,06,VMW,06.VMW
+256,VBB 3 Position Low Gain Science mode,05,Transmitted raw data,V,M,W,0.2,07,VMW,07.VMW
+257,VBB 3 Position Low Gain Science mode,05,Transmitted raw data,V,M,W,0.1,08,VMW,08.VMW
+258,VBB 3 Position Low Gain Science mode,05,Transmitted raw data,U,M,W,0.05,05,UMW,05.UMW
+259,VBB 3 Position Low Gain Science mode,05,Transmitted raw data,U,M,W,0.025,06,UMW,06.UMW
+260,VBB 3 Position Low Gain Science mode,05,Transmitted raw data,U,M,W,0.02,07,UMW,07.UMW
+261,VBB 3 Position Low Gain Science mode,05,Transmitted raw data,U,M,W,0.01,08,UMW,08.UMW
+262,VBB 3 Position Low Gain Science mode,05,Transmitted raw data,R,M,W,0.005,05,RMW,05.RMW
+263,VBB 3 Position Low Gain Science mode,05,Transmitted raw data,R,M,W,0.001,06,RMW,06.RMW
+264,VBB 3 Position Low Gain Science mode,05,Transmitted raw data,R,M,W,1/1800,07,RMW,07.RMW
+265,VBB 3 Position Low Gain Science mode,05,Transmitted raw data,R,M,W,1/3600,08,RMW,08.RMW
+266,VBB 3 Position High Gain Engin. mode,10,Transmitted raw data,L,M,W,1,10,LMW,10.LMW
+267,VBB 3 Position High Gain Engin. mode,10,Transmitted raw data,V,M,W,0.5,10,VMW,10.VMW
+268,VBB 3 Position High Gain Engin. mode,10,Transmitted raw data,V,M,W,0.25,11,VMW,11.VMW
+269,VBB 3 Position High Gain Engin. mode,10,Transmitted raw data,V,M,W,0.2,12,VMW,12.VMW
+270,VBB 3 Position High Gain Engin. mode,10,Transmitted raw data,V,M,W,0.1,13,VMW,13.VMW
+271,VBB 3 Position High Gain Engin. mode,10,Transmitted raw data,U,M,W,0.05,10,UMW,10.UMW
+272,VBB 3 Position High Gain Engin. mode,10,Transmitted raw data,U,M,W,0.025,11,UMW,11.UMW
+273,VBB 3 Position High Gain Engin. mode,10,Transmitted raw data,U,M,W,0.02,12,UMW,12.UMW
+274,VBB 3 Position High Gain Engin. mode,10,Transmitted raw data,U,M,W,0.01,13,UMW,13.UMW
+275,VBB 3 Position High Gain Engin. mode,10,Transmitted raw data,R,M,W,0.005,10,RMW,10.RMW
+276,VBB 3 Position High Gain Engin. mode,10,Transmitted raw data,R,M,W,0.001,11,RMW,11.RMW
+277,VBB 3 Position High Gain Engin. mode,10,Transmitted raw data,R,M,W,1/1800,12,RMW,12.RMW
+278,VBB 3 Position High Gain Engin. mode,10,Transmitted raw data,R,M,W,1/3600,13,RMW,13.RMW
+279,VBB 3 Position Low Gain Engin. mode,15,Transmitted raw data,L,M,W,1,15,LMW,15.LMW
+280,VBB 3 Position Low Gain Engin. mode,15,Transmitted raw data,V,M,W,0.5,15,VMW,15.VMW
+281,VBB 3 Position Low Gain Engin. mode,15,Transmitted raw data,V,M,W,0.25,16,VMW,16.VMW
+282,VBB 3 Position Low Gain Engin. mode,15,Transmitted raw data,V,M,W,0.2,17,VMW,17.VMW
+283,VBB 3 Position Low Gain Engin. mode,15,Transmitted raw data,V,M,W,0.1,18,VMW,18.VMW
+284,VBB 3 Position Low Gain Engin. mode,15,Transmitted raw data,U,M,W,0.05,15,UMW,15.UMW
+285,VBB 3 Position Low Gain Engin. mode,15,Transmitted raw data,U,M,W,0.025,16,UMW,16.UMW
+286,VBB 3 Position Low Gain Engin. mode,15,Transmitted raw data,U,M,W,0.02,17,UMW,17.UMW
+287,VBB 3 Position Low Gain Engin. mode,15,Transmitted raw data,U,M,W,0.01,18,UMW,18.UMW
+288,VBB 3 Position Low Gain Engin. mode,15,Transmitted raw data,R,M,W,0.005,15,RMW,15.RMW
+289,VBB 3 Position Low Gain Engin. mode,15,Transmitted raw data,R,M,W,0.001,16,RMW,16.RMW
+290,VBB 3 Position Low Gain Engin. mode,15,Transmitted raw data,R,M,W,1/1800,17,RMW,17.RMW
+291,VBB 3 Position Low Gain Engin. mode,15,Transmitted raw data,R,M,W,1/3600,18,RMW,18.RMW
+292,VBB 3 Temperature,00,Transmitted raw data,L,K,W,1,00,LKW,00.LKW
+293,VBB 3 Temperature,00,Transmitted raw data,V,K,W,0.5,00,VKW,00.VKW
+294,VBB 3 Temperature,00,Transmitted raw data,V,K,W,0.25,01,VKW,01.VKW
+295,VBB 3 Temperature,00,Transmitted raw data,V,K,W,0.2,02,VKW,02.VKW
+296,VBB 3 Temperature,00,Transmitted raw data,V,K,W,0.1,03,VKW,03.VKW
+297,VBB 3 Temperature,00,Transmitted raw data,U,K,W,0.05,00,UKW,00.UKW
+298,VBB 3 Temperature,00,Transmitted raw data,U,K,W,0.025,01,UKW,01.UKW
+299,VBB 3 Temperature,00,Transmitted raw data,U,K,W,0.02,02,UKW,02.UKW
+300,VBB 3 Temperature,00,Transmitted raw data,U,K,W,0.01,03,UKW,03.UKW
+301,VBB 3 Temperature,00,Transmitted raw data,R,K,W,0.005,00,RKW,00.RKW
+302,VBB 3 Temperature,00,Transmitted raw data,R,K,W,0.001,01,RKW,01.RKW
+303,VBB 3 Temperature,00,Transmitted raw data,R,K,W,1/1800,02,RKW,02.RKW
+304,VBB 3 Temperature,00,Transmitted raw data,R,K,W,1/3600,03,RKW,03.RKW
+305,Scientific Temperature A,00,Transmitted raw data,L,K,I,1,00,LKI,00.LKI
+306,Scientific Temperature A,00,Transmitted raw data,V,K,I,0.5,00,VKI,00.VKI
+307,Scientific Temperature A,00,Transmitted raw data,V,K,I,0.25,01,VKI,01.VKI
+308,Scientific Temperature A,00,Transmitted raw data,V,K,I,0.2,02,VKI,02.VKI
+309,Scientific Temperature A,00,Transmitted raw data,V,K,I,0.1,03,VKI,03.VKI
+310,Scientific Temperature A,00,Transmitted raw data,U,K,I,0.05,00,UKI,00.UKI
+311,Scientific Temperature A,00,Transmitted raw data,U,K,I,0.025,01,UKI,01.UKI
+312,Scientific Temperature A,00,Transmitted raw data,U,K,I,0.02,02,UKI,02.UKI
+313,Scientific Temperature A,00,Transmitted raw data,U,K,I,0.01,03,UKI,03.UKI
+314,Scientific Temperature A,00,Transmitted raw data,R,K,I,0.005,00,RKI,00.RKI
+315,Scientific Temperature A,00,Transmitted raw data,R,K,I,0.001,01,RKI,01.RKI
+316,Scientific Temperature A,00,Transmitted raw data,R,K,I,1/1800,02,RKI,02.RKI
+317,Scientific Temperature A,00,Transmitted raw data,R,K,I,1/3600,03,RKI,03.RKI
+318,Scientific Temperature B,05,Transmitted raw data,L,K,I,1,05,LKI,05.LKI
+319,Scientific Temperature B,05,Transmitted raw data,V,K,I,0.5,05,VKI,05.VKI
+320,Scientific Temperature B,05,Transmitted raw data,V,K,I,0.25,06,VKI,06.VKI
+321,Scientific Temperature B,05,Transmitted raw data,V,K,I,0.2,07,VKI,07.VKI
+322,Scientific Temperature B,05,Transmitted raw data,V,K,I,0.1,08,VKI,08.VKI
+323,Scientific Temperature B,05,Transmitted raw data,U,K,I,0.05,05,UKI,05.UKI
+324,Scientific Temperature B,05,Transmitted raw data,U,K,I,0.025,06,UKI,06.UKI
+325,Scientific Temperature B,05,Transmitted raw data,U,K,I,0.02,07,UKI,07.UKI
+326,Scientific Temperature B,05,Transmitted raw data,U,K,I,0.01,08,UKI,08.UKI
+327,Scientific Temperature B,05,Transmitted raw data,R,K,I,0.005,05,RKI,05.RKI
+328,Scientific Temperature B,05,Transmitted raw data,R,K,I,0.001,06,RKI,06.RKI
+329,Scientific Temperature B,05,Transmitted raw data,R,K,I,1/1800,07,RKI,07.RKI
+330,Scientific Temperature B,05,Transmitted raw data,R,K,I,1/3600,08,RKI,08.RKI
+331,APSS Channels,05,Baseline,R,Inst. Code,Orien. Code,1/3600,08,RKI,08.RKI
+332,Wind Horizontal Speed - sensor 1,10,computed on Earth,L,W,S,1,10,LWS,10.LWS
+333,Wind Horizontal Speed - sensor 1,10,computed on Earth,V,W,S,0.5,10,VWS,10.VWS
+334,Wind Horizontal Speed - sensor 1,10,computed on Earth,V,W,S,0.25,11,VWS,11.VWS
+335,Wind Horizontal Speed - sensor 1,10,computed on Earth,V,W,S,0.2,12,VWS,12.VWS
+336,Wind Horizontal Speed - sensor 1,10,computed on Earth,V,W,S,0.1,13,VWS,13.VWS
+337,Wind Horizontal Speed - sensor 1,10,computed on Earth,U,W,S,0.05,10,UWS,10.UWS
+338,Wind Horizontal Speed - sensor 1,10,computed on Earth,U,W,S,0.025,11,UWS,11.UWS
+339,Wind Horizontal Speed - sensor 1,10,computed on Earth,U,W,S,0.02,12,UWS,12.UWS
+340,Wind Horizontal Speed - sensor 1,10,computed on Earth,U,W,S,0.01,13,UWS,13.UWS
+341,Wind Horizontal Speed - sensor 1,10,computed on Earth,R,W,S,0.005,10,RWS,10.RWS
+342,Wind Horizontal Speed - sensor 1,10,computed on Earth,R,W,S,0.001,11,RWS,11.RWS
+343,Wind Horizontal Speed - sensor 1,10,computed on Earth,R,W,S,1/1800,12,RWS,12.RWS
+344,Wind Horizontal Speed - sensor 1,10,computed on Earth,R,W,S,1/3600,13,RWS,13.RWS
+345,Wind Vertical Speed - sensor 1,15,computed on Earth,L,W,S,1,15,LWS,15.LWS
+346,Wind Vertical Speed - sensor 1,15,computed on Earth,V,W,S,0.5,15,VWS,15.VWS
+347,Wind Vertical Speed - sensor 1,15,computed on Earth,V,W,S,0.25,16,VWS,16.VWS
+348,Wind Vertical Speed - sensor 1,15,computed on Earth,V,W,S,0.2,17,VWS,17.VWS
+349,Wind Vertical Speed - sensor 1,15,computed on Earth,V,W,S,0.1,18,VWS,18.VWS
+350,Wind Vertical Speed - sensor 1,15,computed on Earth,U,W,S,0.05,15,UWS,15.UWS
+351,Wind Vertical Speed - sensor 1,15,computed on Earth,U,W,S,0.025,16,UWS,16.UWS
+352,Wind Vertical Speed - sensor 1,15,computed on Earth,U,W,S,0.02,17,UWS,17.UWS
+353,Wind Vertical Speed - sensor 1,15,computed on Earth,U,W,S,0.01,18,UWS,18.UWS
+354,Wind Vertical Speed - sensor 1,15,computed on Earth,R,W,S,0.005,15,RWS,15.RWS
+355,Wind Vertical Speed - sensor 1,15,computed on Earth,R,W,S,0.001,16,RWS,16.RWS
+356,Wind Vertical Speed - sensor 1,15,computed on Earth,R,W,S,1/1800,17,RWS,17.RWS
+357,Wind Vertical Speed - sensor 1,15,computed on Earth,R,W,S,1/3600,18,RWS,18.RWS
+358,Wind Direction - sensor 1,10,computed on Earth,L,W,D,1,10,LWD,10.LWD
+359,Wind Direction - sensor 1,10,computed on Earth,V,W,D,0.5,10,VWD,10.VWD
+360,Wind Direction - sensor 1,10,computed on Earth,V,W,D,0.25,11,VWD,11.VWD
+361,Wind Direction - sensor 1,10,computed on Earth,V,W,D,0.2,12,VWD,12.VWD
+362,Wind Direction - sensor 1,10,computed on Earth,V,W,D,0.1,13,VWD,13.VWD
+363,Wind Direction - sensor 1,10,computed on Earth,U,W,D,0.05,10,UWD,10.UWD
+364,Wind Direction - sensor 1,10,computed on Earth,U,W,D,0.025,11,UWD,11.UWD
+365,Wind Direction - sensor 1,10,computed on Earth,U,W,D,0.02,12,UWD,12.UWD
+366,Wind Direction - sensor 1,10,computed on Earth,U,W,D,0.01,13,UWD,13.UWD
+367,Wind Direction - sensor 1,10,computed on Earth,R,W,D,0.005,10,RWD,10.RWD
+368,Wind Direction - sensor 1,10,computed on Earth,R,W,D,0.001,11,RWD,11.RWD
+369,Wind Direction - sensor 1,10,computed on Earth,R,W,D,1/1800,12,RWD,12.RWD
+370,Wind Direction - sensor 1,10,computed on Earth,R,W,D,1/3600,13,RWD,13.RWD
+371,Atmosphere Temperature - sensor 1,10,computed on Earth,L,K,O,1,10,LKO,10.LKO
+372,Atmosphere Temperature - sensor 1,10,computed on Earth,V,K,O,0.5,10,VKO,10.VKO
+373,Atmosphere Temperature - sensor 1,10,computed on Earth,V,K,O,0.25,11,VKO,11.VKO
+374,Atmosphere Temperature - sensor 1,10,computed on Earth,V,K,O,0.2,12,VKO,12.VKO
+375,Atmosphere Temperature - sensor 1,10,computed on Earth,V,K,O,0.1,13,VKO,13.VKO
+376,Atmosphere Temperature - sensor 1,10,computed on Earth,U,K,O,0.05,10,UKO,10.UKO
+377,Atmosphere Temperature - sensor 1,10,computed on Earth,U,K,O,0.025,11,UKO,11.UKO
+378,Atmosphere Temperature - sensor 1,10,computed on Earth,U,K,O,0.02,12,UKO,12.UKO
+379,Atmosphere Temperature - sensor 1,10,computed on Earth,U,K,O,0.01,13,UKO,13.UKO
+380,Atmosphere Temperature - sensor 1,10,computed on Earth,R,K,O,0.005,10,RKO,10.RKO
+381,Atmosphere Temperature - sensor 1,10,computed on Earth,R,K,O,0.001,11,RKO,11.RKO
+382,Atmosphere Temperature - sensor 1,10,computed on Earth,R,K,O,1/1800,12,RKO,12.RKO
+383,Atmosphere Temperature - sensor 1,10,computed on Earth,R,K,O,1/3600,13,RKO,13.RKO
+384,Wind Horizontal Speed - sensor 2,20,computed on Earth,L,W,S,1,20,LWS,20.LWS
+385,Wind Horizontal Speed - sensor 2,20,computed on Earth,V,W,S,0.5,20,VWS,20.VWS
+386,Wind Horizontal Speed - sensor 2,20,computed on Earth,V,W,S,0.25,21,VWS,21.VWS
+387,Wind Horizontal Speed - sensor 2,20,computed on Earth,V,W,S,0.2,22,VWS,22.VWS
+388,Wind Horizontal Speed - sensor 2,20,computed on Earth,V,W,S,0.1,23,VWS,23.VWS
+389,Wind Horizontal Speed - sensor 2,20,computed on Earth,U,W,S,0.05,20,UWS,20.UWS
+390,Wind Horizontal Speed - sensor 2,20,computed on Earth,U,W,S,0.025,21,UWS,21.UWS
+391,Wind Horizontal Speed - sensor 2,20,computed on Earth,U,W,S,0.02,22,UWS,22.UWS
+392,Wind Horizontal Speed - sensor 2,20,computed on Earth,U,W,S,0.01,23,UWS,23.UWS
+393,Wind Horizontal Speed - sensor 2,20,computed on Earth,R,W,S,0.005,20,RWS,20.RWS
+394,Wind Horizontal Speed - sensor 2,20,computed on Earth,R,W,S,0.001,21,RWS,21.RWS
+395,Wind Horizontal Speed - sensor 2,20,computed on Earth,R,W,S,1/1800,22,RWS,22.RWS
+396,Wind Horizontal Speed - sensor 2,20,computed on Earth,R,W,S,1/3600,23,RWS,23.RWS
+397,Wind Vertical Speed - sensor 2,25,computed on Earth,L,W,S,1,25,LWS,25.LWS
+398,Wind Vertical Speed - sensor 2,25,computed on Earth,V,W,S,0.5,25,VWS,25.VWS
+399,Wind Vertical Speed - sensor 2,25,computed on Earth,V,W,S,0.25,26,VWS,26.VWS
+400,Wind Vertical Speed - sensor 2,25,computed on Earth,V,W,S,0.2,27,VWS,27.VWS
+401,Wind Vertical Speed - sensor 2,25,computed on Earth,V,W,S,0.1,28,VWS,28.VWS
+402,Wind Vertical Speed - sensor 2,25,computed on Earth,U,W,S,0.05,25,UWS,25.UWS
+403,Wind Vertical Speed - sensor 2,25,computed on Earth,U,W,S,0.025,26,UWS,26.UWS
+404,Wind Vertical Speed - sensor 2,25,computed on Earth,U,W,S,0.02,27,UWS,27.UWS
+405,Wind Vertical Speed - sensor 2,25,computed on Earth,U,W,S,0.01,28,UWS,28.UWS
+406,Wind Vertical Speed - sensor 2,25,computed on Earth,R,W,S,0.005,25,RWS,25.RWS
+407,Wind Vertical Speed - sensor 2,25,computed on Earth,R,W,S,0.001,26,RWS,26.RWS
+408,Wind Vertical Speed - sensor 2,25,computed on Earth,R,W,S,1/1800,27,RWS,27.RWS
+409,Wind Vertical Speed - sensor 2,25,computed on Earth,R,W,S,1/3600,28,RWS,28.RWS
+410,Wind Direction - sensor 2,20,computed on Earth,L,W,D,1,20,LWD,20.LWD
+411,Wind Direction - sensor 2,20,computed on Earth,V,W,D,0.5,20,VWD,20.VWD
+412,Wind Direction - sensor 2,20,computed on Earth,V,W,D,0.25,21,VWD,21.VWD
+413,Wind Direction - sensor 2,20,computed on Earth,V,W,D,0.2,22,VWD,22.VWD
+414,Wind Direction - sensor 2,20,computed on Earth,V,W,D,0.1,23,VWD,23.VWD
+415,Wind Direction - sensor 2,20,computed on Earth,U,W,D,0.05,20,UWD,20.UWD
+416,Wind Direction - sensor 2,20,computed on Earth,U,W,D,0.025,21,UWD,21.UWD
+417,Wind Direction - sensor 2,20,computed on Earth,U,W,D,0.02,22,UWD,22.UWD
+418,Wind Direction - sensor 2,20,computed on Earth,U,W,D,0.01,23,UWD,23.UWD
+419,Wind Direction - sensor 2,20,computed on Earth,R,W,D,0.005,20,RWD,20.RWD
+420,Wind Direction - sensor 2,20,computed on Earth,R,W,D,0.001,21,RWD,21.RWD
+421,Wind Direction - sensor 2,20,computed on Earth,R,W,D,1/1800,22,RWD,22.RWD
+422,Wind Direction - sensor 2,20,computed on Earth,R,W,D,1/3600,23,RWD,23.RWD
+423,Atmosphere Temperature - sensor 2,20,computed on Earth,L,K,O,1,20,LKO,20.LKO
+424,Atmosphere Temperature - sensor 2,20,computed on Earth,V,K,O,0.5,20,VKO,20.VKO
+425,Atmosphere Temperature - sensor 2,20,computed on Earth,V,K,O,0.25,21,VKO,21.VKO
+426,Atmosphere Temperature - sensor 2,20,computed on Earth,V,K,O,0.2,22,VKO,22.VKO
+427,Atmosphere Temperature - sensor 2,20,computed on Earth,V,K,O,0.1,23,VKO,23.VKO
+428,Atmosphere Temperature - sensor 2,20,computed on Earth,U,K,O,0.05,20,UKO,20.UKO
+429,Atmosphere Temperature - sensor 2,20,computed on Earth,U,K,O,0.025,21,UKO,21.UKO
+430,Atmosphere Temperature - sensor 2,20,computed on Earth,U,K,O,0.02,22,UKO,22.UKO
+431,Atmosphere Temperature - sensor 2,20,computed on Earth,U,K,O,0.01,23,UKO,23.UKO
+432,Atmosphere Temperature - sensor 2,20,computed on Earth,R,K,O,0.005,20,RKO,20.RKO
+433,Atmosphere Temperature - sensor 2,20,computed on Earth,R,K,O,0.001,21,RKO,21.RKO
+434,Atmosphere Temperature - sensor 2,20,computed on Earth,R,K,O,1/1800,22,RKO,22.RKO
+435,Atmosphere Temperature - sensor 2,20,computed on Earth,R,K,O,1/3600,23,RKO,23.RKO
+436,Wind Horizontal Speed - Composite,30,computed on Earth,L,W,S,1,30,LWS,30.LWS
+437,Wind Horizontal Speed - Composite,30,computed on Earth,V,W,S,0.5,30,VWS,30.VWS
+438,Wind Horizontal Speed - Composite,30,computed on Earth,V,W,S,0.25,31,VWS,31.VWS
+439,Wind Horizontal Speed - Composite,30,computed on Earth,V,W,S,0.2,32,VWS,32.VWS
+440,Wind Horizontal Speed - Composite,30,computed on Earth,V,W,S,0.1,33,VWS,33.VWS
+441,Wind Horizontal Speed - Composite,30,computed on Earth,U,W,S,0.05,30,UWS,30.UWS
+442,Wind Horizontal Speed - Composite,30,computed on Earth,U,W,S,0.025,31,UWS,31.UWS
+443,Wind Horizontal Speed - Composite,30,computed on Earth,U,W,S,0.02,32,UWS,32.UWS
+444,Wind Horizontal Speed - Composite,30,computed on Earth,U,W,S,0.01,33,UWS,33.UWS
+445,Wind Horizontal Speed - Composite,30,computed on Earth,R,W,S,0.005,30,RWS,30.RWS
+446,Wind Horizontal Speed - Composite,30,computed on Earth,R,W,S,0.001,31,RWS,31.RWS
+447,Wind Horizontal Speed - Composite,30,computed on Earth,R,W,S,1/1800,32,RWS,32.RWS
+448,Wind Horizontal Speed - Composite,30,computed on Earth,R,W,S,1/3600,33,RWS,33.RWS
+449,Wind Vertical Speed - Composite,35,computed on Earth,L,W,S,1,35,LWS,35.LWS
+450,Wind Vertical Speed - Composite,35,computed on Earth,V,W,S,0.5,35,VWS,35.VWS
+451,Wind Vertical Speed - Composite,35,computed on Earth,V,W,S,0.25,36,VWS,36.VWS
+452,Wind Vertical Speed - Composite,35,computed on Earth,V,W,S,0.2,37,VWS,37.VWS
+453,Wind Vertical Speed - Composite,35,computed on Earth,V,W,S,0.1,38,VWS,38.VWS
+454,Wind Vertical Speed - Composite,35,computed on Earth,U,W,S,0.05,35,UWS,35.UWS
+455,Wind Vertical Speed - Composite,35,computed on Earth,U,W,S,0.025,36,UWS,36.UWS
+456,Wind Vertical Speed - Composite,35,computed on Earth,U,W,S,0.02,37,UWS,37.UWS
+457,Wind Vertical Speed - Composite,35,computed on Earth,U,W,S,0.01,38,UWS,38.UWS
+458,Wind Vertical Speed - Composite,35,computed on Earth,R,W,S,0.005,35,RWS,35.RWS
+459,Wind Vertical Speed - Composite,35,computed on Earth,R,W,S,0.001,36,RWS,36.RWS
+460,Wind Vertical Speed - Composite,35,computed on Earth,R,W,S,1/1800,37,RWS,37.RWS
+461,Wind Vertical Speed - Composite,35,computed on Earth,R,W,S,1/3600,38,RWS,38.RWS
+462,Wind Direction - Composite,30,computed on Earth,L,W,D,1,30,LWD,30.LWD
+463,Wind Direction - Composite,30,computed on Earth,V,W,D,0.5,30,VWD,30.VWD
+464,Wind Direction - Composite,30,computed on Earth,V,W,D,0.25,31,VWD,31.VWD
+465,Wind Direction - Composite,30,computed on Earth,V,W,D,0.2,32,VWD,32.VWD
+466,Wind Direction - Composite,30,computed on Earth,V,W,D,0.1,33,VWD,33.VWD
+467,Wind Direction - Composite,30,computed on Earth,U,W,D,0.05,30,UWD,30.UWD
+468,Wind Direction - Composite,30,computed on Earth,U,W,D,0.025,31,UWD,31.UWD
+469,Wind Direction - Composite,30,computed on Earth,U,W,D,0.02,32,UWD,32.UWD
+470,Wind Direction - Composite,30,computed on Earth,U,W,D,0.01,33,UWD,33.UWD
+471,Wind Direction - Composite,30,computed on Earth,R,W,D,0.005,30,RWD,30.RWD
+472,Wind Direction - Composite,30,computed on Earth,R,W,D,0.001,31,RWD,31.RWD
+473,Wind Direction - Composite,30,computed on Earth,R,W,D,1/1800,32,RWD,32.RWD
+474,Wind Direction - Composite,30,computed on Earth,R,W,D,1/3600,33,RWD,33.RWD
+475,Atmosphere Temperature - Composite,30,computed on Earth,L,K,O,1,30,LKO,30.LKO
+476,Atmosphere Temperature - Composite,30,computed on Earth,V,K,O,0.5,30,VKO,30.VKO
+477,Atmosphere Temperature - Composite,30,computed on Earth,V,K,O,0.25,31,VKO,31.VKO
+478,Atmosphere Temperature - Composite,30,computed on Earth,V,K,O,0.2,32,VKO,32.VKO
+479,Atmosphere Temperature - Composite,30,computed on Earth,V,K,O,0.1,33,VKO,33.VKO
+480,Atmosphere Temperature - Composite,30,computed on Earth,U,K,O,0.05,30,UKO,30.UKO
+481,Atmosphere Temperature - Composite,30,computed on Earth,U,K,O,0.025,31,UKO,31.UKO
+482,Atmosphere Temperature - Composite,30,computed on Earth,U,K,O,0.02,32,UKO,32.UKO
+483,Atmosphere Temperature - Composite,30,computed on Earth,U,K,O,0.01,33,UKO,33.UKO
+484,Atmosphere Temperature - Composite,30,computed on Earth,R,K,O,0.005,30,RKO,30.RKO
+485,Atmosphere Temperature - Composite,30,computed on Earth,R,K,O,0.001,31,RKO,31.RKO
+486,Atmosphere Temperature - Composite,30,computed on Earth,R,K,O,1/1800,32,RKO,32.RKO
+487,Atmosphere Temperature - Composite,30,computed on Earth,R,K,O,1/3600,33,RKO,33.RKO
+488,Pressure (Outside),10,computed on Earth,B,D,O,20,12,BDO,12.BDO
+489,Pressure (Outside),10,computed on Earth,B,D,O,10,13,BDO,13.BDO
+490,Pressure (Outside),10,computed on Earth,M,D,O,5,10,MDO,10.MDO
+491,Pressure (Outside),10,computed on Earth,M,D,O,4,11,MDO,11.MDO
+492,Pressure (Outside),10,computed on Earth,M,D,O,2,12,MDO,12.MDO
+493,Pressure (Outside),10,computed on Earth,L,D,O,1,10,LDO,10.LDO
+494,Pressure (Outside),10,computed on Earth,V,D,O,0.5,10,VDO,10.VDO
+495,Pressure (Outside),10,computed on Earth,V,D,O,0.2,12,VDO,12.VDO
+496,Pressure Sensor Temperature (Inside),20,computed on Earth,B,K,I,20,22,BKI,22.BKI
+497,Pressure Sensor Temperature (Inside),20,computed on Earth,B,K,I,10,23,BKI,23.BKI
+498,Pressure Sensor Temperature (Inside),20,computed on Earth,M,K,I,5,20,MKI,20.MKI
+499,Pressure Sensor Temperature (Inside),20,computed on Earth,M,K,I,4,21,MKI,21.MKI
+500,Pressure Sensor Temperature (Inside),20,computed on Earth,M,K,I,2,22,MKI,22.MKI
+501,Pressure Sensor Temperature (Inside),20,computed on Earth,L,K,I,1,20,LKI,20.LKI
+502,Pressure Sensor Temperature (Inside),20,computed on Earth,V,K,I,0.5,20,VKI,20.VKI
+503,Pressure Sensor Temperature (Inside),20,computed on Earth,V,K,I,0.2,22,VKI,22.VKI
+504,Pressure (Outside),00,Transmitted raw data,B,D,O,50,00,BDO,00.BDO
+505,Pressure (Outside),00,Transmitted raw data,B,D,O,25,01,BDO,01.BDO
+506,Pressure (Outside),00,Transmitted raw data,B,D,O,20,02,BDO,02.BDO
+507,Pressure (Outside),00,Transmitted raw data,B,D,O,10,03,BDO,03.BDO
+508,Pressure (Outside),00,Transmitted raw data,M,D,O,5,00,MDO,00.MDO
+509,Pressure (Outside),00,Transmitted raw data,M,D,O,4,01,MDO,01.MDO
+510,Pressure (Outside),00,Transmitted raw data,M,D,O,2,02,MDO,02.MDO
+511,Pressure (Outside),00,Transmitted raw data,L,D,O,1,00,LDO,00.LDO
+512,Pressure (Outside),00,Transmitted raw data,V,D,O,0.5,00,VDO,00.VDO
+513,Pressure (Outside),00,Transmitted raw data,V,D,O,0.25,01,VDO,01.VDO
+514,Pressure (Outside),00,Transmitted raw data,V,D,O,0.2,02,VDO,02.VDO
+515,Pressure (Outside),00,Transmitted raw data,V,D,O,0.1,03,VDO,03.VDO
+516,Pressure (Outside),00,Transmitted raw data,U,D,O,0.05,00,UDO,00.UDO
+517,Pressure (Outside),00,Transmitted raw data,U,D,O,0.025,01,UDO,01.UDO
+518,Pressure (Outside),00,Transmitted raw data,U,D,O,0.02,02,UDO,02.UDO
+519,Pressure (Outside),00,Transmitted raw data,U,D,O,0.01,03,UDO,03.UDO
+520,Pressure (Outside),00,Transmitted raw data,R,D,O,0.005,00,RDO,00.RDO
+521,Pressure (Outside),00,Transmitted raw data,R,D,O,0.001,01,RDO,01.RDO
+522,Pressure (Outside),00,Transmitted raw data,R,D,O,1/1800,02,RDO,02.RDO
+523,Pressure (Outside),00,Transmitted raw data,R,D,O,1/3600,03,RDO,03.RDO
+524,Pressure Sensor Temperature (Inside),10,Transmitted raw data,B,K,I,50,10,BKI,10.BKI
+525,Pressure Sensor Temperature (Inside),10,Transmitted raw data,B,K,I,25,11,BKI,11.BKI
+526,Pressure Sensor Temperature (Inside),10,Transmitted raw data,B,K,I,20,12,BKI,12.BKI
+527,Pressure Sensor Temperature (Inside),10,Transmitted raw data,B,K,I,10,13,BKI,13.BKI
+528,Pressure Sensor Temperature (Inside),10,Transmitted raw data,M,K,I,5,10,MKI,10.MKI
+529,Pressure Sensor Temperature (Inside),10,Transmitted raw data,M,K,I,4,11,MKI,11.MKI
+530,Pressure Sensor Temperature (Inside),10,Transmitted raw data,M,K,I,2,12,MKI,12.MKI
+531,Pressure Sensor Temperature (Inside),10,Transmitted raw data,L,K,I,1,10,LKI,10.LKI
+532,Pressure Sensor Temperature (Inside),10,Transmitted raw data,V,K,I,0.5,10,VKI,10.VKI
+533,Pressure Sensor Temperature (Inside),10,Transmitted raw data,V,K,I,0.25,11,VKI,11.VKI
+534,Pressure Sensor Temperature (Inside),10,Transmitted raw data,V,K,I,0.2,12,VKI,12.VKI
+535,Pressure Sensor Temperature (Inside),10,Transmitted raw data,V,K,I,0.1,13,VKI,13.VKI
+536,Pressure Sensor Temperature (Inside),10,Transmitted raw data,U,K,I,0.05,10,UKI,10.UKI
+537,Pressure Sensor Temperature (Inside),10,Transmitted raw data,U,K,I,0.025,11,UKI,11.UKI
+538,Pressure Sensor Temperature (Inside),10,Transmitted raw data,U,K,I,0.02,12,UKI,12.UKI
+539,Pressure Sensor Temperature (Inside),10,Transmitted raw data,U,K,I,0.01,13,UKI,13.UKI
+540,Pressure Sensor Temperature (Inside),10,Transmitted raw data,R,K,I,0.005,10,RKI,10.RKI
+541,Pressure Sensor Temperature (Inside),10,Transmitted raw data,R,K,I,0.001,11,RKI,11.RKI
+542,Pressure Sensor Temperature (Inside),10,Transmitted raw data,R,K,I,1/1800,12,RKI,12.RKI
+543,Pressure Sensor Temperature (Inside),10,Transmitted raw data,R,K,I,1/3600,13,RKI,13.RKI
+544,Magnetomer1,00,Transmitted raw data,B,F,1,50,00,BF1,00.BF1
+545,Magnetomer1,00,Transmitted raw data,B,F,1,25,01,BF1,01.BF1
+546,Magnetomer1,00,Transmitted raw data,B,F,1,20,02,BF1,02.BF1
+547,Magnetomer1,00,Transmitted raw data,B,F,1,10,03,BF1,03.BF1
+548,Magnetomer1,00,Transmitted raw data,M,F,1,5,00,MF1,00.MF1
+549,Magnetomer1,00,Transmitted raw data,M,F,1,4,01,MF1,01.MF1
+550,Magnetomer1,00,Transmitted raw data,M,F,1,2,02,MF1,02.MF1
+551,Magnetomer1,00,Transmitted raw data,L,F,1,1,00,LF1,00.LF1
+552,Magnetomer1,00,Transmitted raw data,V,F,1,0.5,00,VF1,00.VF1
+553,Magnetomer1,00,Transmitted raw data,V,F,1,0.25,01,VF1,01.VF1
+554,Magnetomer1,00,Transmitted raw data,V,F,1,0.2,02,VF1,02.VF1
+555,Magnetomer1,00,Transmitted raw data,V,F,1,0.1,03,VF1,03.VF1
+556,Magnetomer1,00,Transmitted raw data,U,F,1,0.05,00,UF1,00.UF1
+557,Magnetomer1,00,Transmitted raw data,U,F,1,0.025,01,UF1,01.UF1
+558,Magnetomer1,00,Transmitted raw data,U,F,1,0.02,02,UF1,02.UF1
+559,Magnetomer1,00,Transmitted raw data,U,F,1,0.01,03,UF1,03.UF1
+560,Magnetomer1,00,Transmitted raw data,R,F,1,0.005,00,RF1,00.RF1
+561,Magnetomer1,00,Transmitted raw data,R,F,1,0.001,01,RF1,01.RF1
+562,Magnetomer1,00,Transmitted raw data,R,F,1,1/1800,02,RF1,02.RF1
+563,Magnetomer1,00,Transmitted raw data,R,F,1,1/3600,03,RF1,03.RF1
+564,Magnetomer2,00,Transmitted raw data,B,F,2,50,00,BF2,00.BF2
+565,Magnetomer2,00,Transmitted raw data,B,F,2,25,01,BF2,01.BF2
+566,Magnetomer2,00,Transmitted raw data,B,F,2,20,02,BF2,02.BF2
+567,Magnetomer2,00,Transmitted raw data,B,F,2,10,03,BF2,03.BF2
+568,Magnetomer2,00,Transmitted raw data,M,F,2,5,00,MF2,00.MF2
+569,Magnetomer2,00,Transmitted raw data,M,F,2,4,01,MF2,01.MF2
+570,Magnetomer2,00,Transmitted raw data,M,F,2,2,02,MF2,02.MF2
+571,Magnetomer2,00,Transmitted raw data,L,F,2,1,00,LF2,00.LF2
+572,Magnetomer2,00,Transmitted raw data,V,F,2,0.5,00,VF2,00.VF2
+573,Magnetomer2,00,Transmitted raw data,V,F,2,0.25,01,VF2,01.VF2
+574,Magnetomer2,00,Transmitted raw data,V,F,2,0.2,02,VF2,02.VF2
+575,Magnetomer2,00,Transmitted raw data,V,F,2,0.1,03,VF2,03.VF2
+576,Magnetomer2,00,Transmitted raw data,U,F,2,0.05,00,UF2,00.UF2
+577,Magnetomer2,00,Transmitted raw data,U,F,2,0.025,01,UF2,01.UF2
+578,Magnetomer2,00,Transmitted raw data,U,F,2,0.02,02,UF2,02.UF2
+579,Magnetomer2,00,Transmitted raw data,U,F,2,0.01,03,UF2,03.UF2
+580,Magnetomer2,00,Transmitted raw data,R,F,2,0.005,00,RF2,00.RF2
+581,Magnetomer2,00,Transmitted raw data,R,F,2,0.001,01,RF2,01.RF2
+582,Magnetomer2,00,Transmitted raw data,R,F,2,1/1800,02,RF2,02.RF2
+583,Magnetomer2,00,Transmitted raw data,R,F,2,1/3600,03,RF2,03.RF2
+584,Magnetomer3,00,Transmitted raw data,B,F,3,50,00,BF3,00.BF3
+585,Magnetomer3,00,Transmitted raw data,B,F,3,25,01,BF3,01.BF3
+586,Magnetomer3,00,Transmitted raw data,B,F,3,20,02,BF3,02.BF3
+587,Magnetomer3,00,Transmitted raw data,B,F,3,10,03,BF3,03.BF3
+588,Magnetomer3,00,Transmitted raw data,M,F,3,5,00,MF3,00.MF3
+589,Magnetomer3,00,Transmitted raw data,M,F,3,4,01,MF3,01.MF3
+590,Magnetomer3,00,Transmitted raw data,M,F,3,2,02,MF3,02.MF3
+591,Magnetomer3,00,Transmitted raw data,L,F,3,1,00,LF3,00.LF3
+592,Magnetomer3,00,Transmitted raw data,V,F,3,0.5,00,VF3,00.VF3
+593,Magnetomer3,00,Transmitted raw data,V,F,3,0.25,01,VF3,01.VF3
+594,Magnetomer3,00,Transmitted raw data,V,F,3,0.2,02,VF3,02.VF3
+595,Magnetomer3,00,Transmitted raw data,V,F,3,0.1,03,VF3,03.VF3
+596,Magnetomer3,00,Transmitted raw data,U,F,3,0.05,00,UF3,00.UF3
+597,Magnetomer3,00,Transmitted raw data,U,F,3,0.025,01,UF3,01.UF3
+598,Magnetomer3,00,Transmitted raw data,U,F,3,0.02,02,UF3,02.UF3
+599,Magnetomer3,00,Transmitted raw data,U,F,3,0.01,03,UF3,03.UF3
+600,Magnetomer3,00,Transmitted raw data,R,F,3,0.005,00,RF3,00.RF3
+601,Magnetomer3,00,Transmitted raw data,R,F,3,0.001,01,RF3,01.RF3
+602,Magnetomer3,00,Transmitted raw data,R,F,3,1/1800,02,RF3,02.RF3
+603,Magnetomer3,00,Transmitted raw data,R,F,3,1/3600,03,RF3,03.RF3
+604,Magnetometer temperature,00,Transmitted raw data,B,K,M,50,00,BKM,00.BKM
+605,Magnetometer temperature,00,Transmitted raw data,B,K,M,25,01,BKM,01.BKM
+606,Magnetometer temperature,00,Transmitted raw data,B,K,M,20,02,BKM,02.BKM
+607,Magnetometer temperature,00,Transmitted raw data,B,K,M,10,03,BKM,03.BKM
+608,Magnetometer temperature,00,Transmitted raw data,M,K,M,5,00,MKM,00.MKM
+609,Magnetometer temperature,00,Transmitted raw data,M,K,M,4,01,MKM,01.MKM
+610,Magnetometer temperature,00,Transmitted raw data,M,K,M,2,02,MKM,02.MKM
+611,Magnetometer temperature,00,Transmitted raw data,L,K,M,1,00,LKM,00.LKM
+612,Magnetometer temperature,00,Transmitted raw data,V,K,M,0.5,00,VKM,00.VKM
+613,Magnetometer temperature,00,Transmitted raw data,V,K,M,0.25,01,VKM,01.VKM
+614,Magnetometer temperature,00,Transmitted raw data,V,K,M,0.2,02,VKM,02.VKM
+615,Magnetometer temperature,00,Transmitted raw data,V,K,M,0.1,03,VKM,03.VKM
+616,Magnetometer temperature,00,Transmitted raw data,U,K,M,0.05,00,UKM,00.UKM
+617,Magnetometer temperature,00,Transmitted raw data,U,K,M,0.025,01,UKM,01.UKM
+618,Magnetometer temperature,00,Transmitted raw data,U,K,M,0.02,02,UKM,02.UKM
+619,Magnetometer temperature,00,Transmitted raw data,U,K,M,0.01,03,UKM,03.UKM
+620,Magnetometer temperature,00,Transmitted raw data,R,K,M,0.005,00,RKM,00.RKM
+621,Magnetometer temperature,00,Transmitted raw data,R,K,M,0.001,01,RKM,01.RKM
+622,Magnetometer temperature,00,Transmitted raw data,R,K,M,1/1800,02,RKM,02.RKM
+623,Magnetometer temperature,00,Transmitted raw data,R,K,M,1/3600,03,RKM,03.RKM
+624,S/C Power Voltage,80,Transmitted raw data,L,E,V,1,80,LEV,80.LEV
+625,S/C Power Voltage,80,Transmitted raw data,V,E,V,0.5,80,VEV,80.VEV
+626,S/C Power Voltage,80,Transmitted raw data,V,E,V,0.25,81,VEV,81.VEV
+627,S/C Power Voltage,80,Transmitted raw data,V,E,V,0.2,82,VEV,82.VEV
+628,S/C Power Voltage,80,Transmitted raw data,V,E,V,0.1,83,VEV,83.VEV
+629,S/C Power Voltage,80,Transmitted raw data,U,E,V,0.05,80,UEV,80.UEV
+630,S/C Power Voltage,80,Transmitted raw data,U,E,V,0.025,81,UEV,81.UEV
+631,S/C Power Voltage,80,Transmitted raw data,U,E,V,0.02,82,UEV,82.UEV
+632,S/C Power Voltage,80,Transmitted raw data,U,E,V,0.01,83,UEV,83.UEV
+633,S/C Power Voltage,80,Transmitted raw data,R,E,V,0.005,80,REV,80.REV
+634,S/C Power Voltage,80,Transmitted raw data,R,E,V,0.001,81,REV,81.REV
+635,S/C Power Voltage,80,Transmitted raw data,R,E,V,1/1800,82,REV,82.REV
+636,S/C Power Voltage,80,Transmitted raw data,R,E,V,1/3600,83,REV,83.REV
+638,SP1 (High Gain),65,Transmitted raw data,E,H,U,100,65,EHU,65.EHU
+639,SP1 (High Gain),65,Transmitted raw data,S,H,U,50,65,SHU,65.SHU
+640,SP1 (High Gain),65,Transmitted raw data,S,H,U,25,66,SHU,66.SHU
+641,SP1 (High Gain),65,Transmitted raw data,S,H,U,20,67,SHU,67.SHU
+642,SP1 (High Gain),65,Transmitted raw data,S,H,U,10,68,SHU,68.SHU
+643,SP1 (High Gain),65,Transmitted raw data,M,H,U,5,65,MHU,65.MHU
+644,SP1 (High Gain),65,Transmitted raw data,M,H,U,4,66,MHU,66.MHU
+645,SP1 (High Gain),65,Transmitted raw data,M,H,U,2,67,MHU,67.MHU
+646,SP1 (High Gain),65,Transmitted raw data,L,H,U,1,65,LHU,65.LHU
+647,SP2 (High Gain),65,Transmitted raw data,E,H,V,100,65,EHV,65.EHV
+648,SP2 (High Gain),65,Transmitted raw data,S,H,V,50,65,SHV,65.SHV
+649,SP2 (High Gain),65,Transmitted raw data,S,H,V,25,66,SHV,66.SHV
+650,SP2 (High Gain),65,Transmitted raw data,S,H,V,20,67,SHV,67.SHV
+651,SP2 (High Gain),65,Transmitted raw data,S,H,V,10,68,SHV,68.SHV
+652,SP2 (High Gain),65,Transmitted raw data,M,H,V,5,65,MHV,65.MHV
+653,SP2 (High Gain),65,Transmitted raw data,M,H,V,4,66,MHV,66.MHV
+654,SP2 (High Gain),65,Transmitted raw data,M,H,V,2,67,MHV,67.MHV
+655,SP2 (High Gain),65,Transmitted raw data,L,H,V,1,65,LHV,65.LHV
+656,SP3 (High Gain),65,Transmitted raw data,E,H,W,100,65,EHW,65.EHW
+657,SP3 (High Gain),65,Transmitted raw data,S,H,W,50,65,SHW,65.SHW
+658,SP3 (High Gain),65,Transmitted raw data,S,H,W,25,66,SHW,66.SHW
+659,SP3 (High Gain),65,Transmitted raw data,S,H,W,20,67,SHW,67.SHW
+660,SP3 (High Gain),65,Transmitted raw data,S,H,W,10,68,SHW,68.SHW
+661,SP3 (High Gain),65,Transmitted raw data,M,H,W,5,65,MHW,65.MHW
+662,SP3 (High Gain),65,Transmitted raw data,M,H,W,4,66,MHW,66.MHW
+663,SP3 (High Gain),65,Transmitted raw data,M,H,W,2,67,MHW,67.MHW
+664,SP3 (High Gain),65,Transmitted raw data,L,H,W,1,65,LHW,65.LHW
+665,SP1 ( Low Gain),70,Transmitted raw data,E,H,U,100,70,EHU,70.EHU
+666,SP1 ( Low Gain),70,Transmitted raw data,S,H,U,50,70,SHU,70.SHU
+667,SP1 ( Low Gain),70,Transmitted raw data,S,H,U,25,71,SHU,71.SHU
+668,SP1 ( Low Gain),70,Transmitted raw data,S,H,U,20,72,SHU,72.SHU
+669,SP1 ( Low Gain),70,Transmitted raw data,S,H,U,10,73,SHU,73.SHU
+670,SP1 ( Low Gain),70,Transmitted raw data,M,H,U,5,70,MHU,70.MHU
+671,SP1 ( Low Gain),70,Transmitted raw data,M,H,U,4,71,MHU,71.MHU
+672,SP1 ( Low Gain),70,Transmitted raw data,M,H,U,2,72,MHU,72.MHU
+673,SP1 ( Low Gain),70,Transmitted raw data,L,H,U,1,73,LHU,73.LHU
+674,SP1 ( Low Gain),70,Transmitted raw data,V,H,U,0.5,70,VHU,70.VHU
+675,SP1 ( Low Gain),70,Transmitted raw data,V,H,U,0.25,71,VHU,71.VHU
+676,SP1 ( Low Gain),70,Transmitted raw data,V,H,U,0.2,72,VHU,72.VHU
+677,SP1 ( Low Gain),70,Transmitted raw data,V,H,U,0.1,73,VHU,73.VHU
+678,SP1 ( Low Gain),70,Transmitted raw data,U,H,U,0.05,70,UHU,70.UHU
+679,SP1 ( Low Gain),70,Transmitted raw data,U,H,U,0.025,71,UHU,71.UHU
+680,SP1 ( Low Gain),70,Transmitted raw data,U,H,U,0.02,72,UHU,72.UHU
+681,SP1 ( Low Gain),70,Transmitted raw data,U,H,U,0.01,73,UHU,73.UHU
+682,SP1 ( Low Gain),70,Transmitted raw data,R,H,U,0.005,70,RHU,70.RHU
+683,SP1 ( Low Gain),70,Transmitted raw data,R,H,U,0.001,71,RHU,71.RHU
+684,SP1 ( Low Gain),70,Transmitted raw data,R,H,U,1/1800,72,RHU,72.RHU
+685,SP1 ( Low Gain),70,Transmitted raw data,R,H,U,1/3600,73,RHU,73.RHU
+686,SP2 (Low Gain),70,Transmitted raw data,E,H,V,100,70,EHV,70.EHV
+687,SP2 (Low Gain),70,Transmitted raw data,S,H,V,50,70,SHV,70.SHV
+688,SP2 (Low Gain),70,Transmitted raw data,S,H,V,25,71,SHV,71.SHV
+689,SP2 (Low Gain),70,Transmitted raw data,S,H,V,20,72,SHV,72.SHV
+690,SP2 (Low Gain),70,Transmitted raw data,S,H,V,10,73,SHV,73.SHV
+691,SP2 (Low Gain),70,Transmitted raw data,M,H,V,5,70,MHV,70.MHV
+692,SP2 (Low Gain),70,Transmitted raw data,M,H,V,4,71,MHV,71.MHV
+693,SP2 (Low Gain),70,Transmitted raw data,M,H,V,2,72,MHV,72.MHV
+694,SP2 (Low Gain),70,Transmitted raw data,L,H,V,1,73,LHV,73.LHV
+695,SP2 (Low Gain),70,Transmitted raw data,V,H,V,0.5,70,VHV,70.VHV
+696,SP2 (Low Gain),70,Transmitted raw data,V,H,V,0.25,71,VHV,71.VHV
+697,SP2 (Low Gain),70,Transmitted raw data,V,H,V,0.2,72,VHV,72.VHV
+698,SP2 (Low Gain),70,Transmitted raw data,V,H,V,0.1,73,VHV,73.VHV
+699,SP2 (Low Gain),70,Transmitted raw data,U,H,V,0.05,70,UHV,70.UHV
+700,SP2 (Low Gain),70,Transmitted raw data,U,H,V,0.025,71,UHV,71.UHV
+701,SP2 (Low Gain),70,Transmitted raw data,U,H,V,0.02,72,UHV,72.UHV
+702,SP2 (Low Gain),70,Transmitted raw data,U,H,V,0.01,73,UHV,73.UHV
+703,SP2 (Low Gain),70,Transmitted raw data,R,H,V,0.005,70,RHV,70.RHV
+704,SP2 (Low Gain),70,Transmitted raw data,R,H,V,0.001,71,RHV,71.RHV
+705,SP2 (Low Gain),70,Transmitted raw data,R,H,V,1/1800,72,RHV,72.RHV
+706,SP2 (Low Gain),70,Transmitted raw data,R,H,V,1/3600,73,RHV,73.RHV
+707,SP3 (Low Gain),70,Transmitted raw data,E,H,W,100,70,EHW,70.EHW
+708,SP3 (Low Gain),70,Transmitted raw data,S,H,W,50,70,SHW,70.SHW
+709,SP3 (Low Gain),70,Transmitted raw data,S,H,W,25,71,SHW,71.SHW
+710,SP3 (Low Gain),70,Transmitted raw data,S,H,W,20,72,SHW,72.SHW
+711,SP3 (Low Gain),70,Transmitted raw data,S,H,W,10,73,SHW,73.SHW
+712,SP3 (Low Gain),70,Transmitted raw data,M,H,W,5,70,MHW,70.MHW
+713,SP3 (Low Gain),70,Transmitted raw data,M,H,W,4,71,MHW,71.MHW
+714,SP3 (Low Gain),70,Transmitted raw data,M,H,W,2,72,MHW,72.MHW
+715,SP3 (Low Gain),70,Transmitted raw data,L,H,W,1,73,LHW,73.LHW
+716,SP3 (Low Gain),70,Transmitted raw data,V,H,W,0.5,70,VHW,70.VHW
+717,SP3 (Low Gain),70,Transmitted raw data,V,H,W,0.25,71,VHW,71.VHW
+718,SP3 (Low Gain),70,Transmitted raw data,V,H,W,0.2,72,VHW,72.VHW
+719,SP3 (Low Gain),70,Transmitted raw data,V,H,W,0.1,73,VHW,73.VHW
+720,SP3 (Low Gain),70,Transmitted raw data,U,H,W,0.05,70,UHW,70.UHW
+721,SP3 (Low Gain),70,Transmitted raw data,U,H,W,0.025,71,UHW,71.UHW
+722,SP3 (Low Gain),70,Transmitted raw data,U,H,W,0.02,72,UHW,72.UHW
+723,SP3 (Low Gain),70,Transmitted raw data,U,H,W,0.01,73,UHW,73.UHW
+724,SP3 (Low Gain),70,Transmitted raw data,R,H,W,0.005,70,RHW,70.RHW
+725,SP3 (Low Gain),70,Transmitted raw data,R,H,W,0.001,71,RHW,71.RHW
+726,SP3 (Low Gain),70,Transmitted raw data,R,H,W,1/1800,72,RHW,72.RHW
+727,SP3 (Low Gain),70,Transmitted raw data,R,H,W,1/3600,73,RHW,73.RHW
+729,SEISVELZ,55,Transmitted processed data,H,Z,C,100,55,HZC,55.HZC
+730,SEISVELZ,55,Transmitted processed data,B,Z,C,50,55,BZC,55.BZC
+731,SEISVELZ,55,Transmitted processed data,B,Z,C,25,56,BZC,56.BZC
+732,SEISVELZ,55,Transmitted processed data,B,Z,C,20,57,BZC,57.BZC
+733,SEISVELZ,55,Transmitted processed data,B,Z,C,10,58,BZC,58.BZC
+734,SEISVELZ,55,Transmitted processed data,M,Z,C,5,55,MZC,55.MZC
+735,SEISVELZ,55,Transmitted processed data,M,Z,C,4,56,MZC,56.MZC
+736,SEISVELZ,55,Transmitted processed data,M,Z,C,2,57,MZC,57.MZC
+737,SEISVELZ,55,Transmitted processed data,L,Z,C,1,58,LZC,58.LZC
+738,SEISVELZ,55,Transmitted processed data,V,Z,C,0.5,55,VZC,55.VZC
+739,SEISVELZ,55,Transmitted processed data,V,Z,C,0.25,56,VZC,56.VZC
+740,SEISVELZ,55,Transmitted processed data,V,Z,C,0.2,57,VZC,57.VZC
+741,SEISVELZ,55,Transmitted processed data,V,Z,C,0.1,58,VZC,58.VZC
+742,SEISVELZ,55,Transmitted processed data,U,Z,C,0.05,55,UZC,55.UZC
+743,SEISVELZ,55,Transmitted processed data,U,Z,C,0.025,56,UZC,56.UZC
+744,SEISVELZ,55,Transmitted processed data,U,Z,C,0.02,57,UZC,57.UZC
+745,SEISVELZ,55,Transmitted processed data,U,Z,C,0.01,58,UZC,58.UZC
+746,SEISVELZ,55,Transmitted processed data,R,Z,C,0.005,55,RZC,55.RZC
+747,SEISVELZ,55,Transmitted processed data,R,Z,C,0.001,56,RZC,56.RZC
+748,SEISVELZ,55,Transmitted processed data,R,Z,C,1/1800,57,RZC,57.RZC
+749,SEISVELZ,55,Transmitted processed data,R,Z,C,1/3600,58,RZC,58.RZC
+750,SPZ,75,Transmitted processed data,E,Z,C,100,75,EZC,75.EZC
+751,SPZ,75,Transmitted processed data,S,Z,C,50,75,SZC,75.SZC
+752,SPZ,75,Transmitted processed data,S,Z,C,25,76,SZC,76.SZC
+753,SPZ,75,Transmitted processed data,S,Z,C,20,77,SZC,77.SZC
+754,SPZ,75,Transmitted processed data,S,Z,C,10,78,SZC,78.SZC
+755,SPZ,75,Transmitted processed data,M,Z,C,5,75,MZC,75.MZC
+756,SPZ,75,Transmitted processed data,M,Z,C,4,76,MZC,76.MZC
+757,SPZ,75,Transmitted processed data,M,Z,C,2,77,MZC,77.MZC
+758,SPZ,75,Transmitted processed data,L,Z,C,1,78,LZC,78.LZC
+759,SPZ,75,Transmitted processed data,V,Z,C,0.5,75,VZC,75.VZC
+760,SPZ,75,Transmitted processed data,V,Z,C,0.25,76,VZC,76.VZC
+761,SPZ,75,Transmitted processed data,V,Z,C,0.2,77,VZC,77.VZC
+762,SPZ,75,Transmitted processed data,V,Z,C,0.1,78,VZC,78.VZC
+763,SPZ,75,Transmitted processed data,U,Z,C,0.05,75,UZC,75.UZC
+764,SPZ,75,Transmitted processed data,U,Z,C,0.025,76,UZC,76.UZC
+765,SPZ,75,Transmitted processed data,U,Z,C,0.02,77,UZC,77.UZC
+766,SPZ,75,Transmitted processed data,U,Z,C,0.01,78,UZC,78.UZC
+767,SPZ,75,Transmitted processed data,R,Z,C,0.005,75,RZC,75.RZC
+768,SPZ,75,Transmitted processed data,R,Z,C,0.001,76,RZC,76.RZC
+769,SPZ,75,Transmitted processed data,R,Z,C,1/1800,77,RZC,77.RZC
+770,SPZ,75,Transmitted processed data,R,Z,C,1/3600,78,RZC,78.RZC
+771,VBBR ,80,Transmitted processed data,H,Z,C,100,80,HZC,80.HZC
+772,VBBR ,80,Transmitted processed data,B,Z,C,50,80,BZC,80.BZC
+773,VBBR ,80,Transmitted processed data,B,Z,C,25,81,BZC,81.BZC
+774,VBBR ,80,Transmitted processed data,B,Z,C,20,82,BZC,82.BZC
+775,VBBR ,80,Transmitted processed data,B,Z,C,10,83,BZC,83.BZC
+776,VBBR ,80,Transmitted processed data,M,Z,C,5,80,MZC,80.MZC
+777,VBBR ,80,Transmitted processed data,M,Z,C,4,81,MZC,81.MZC
+778,VBBR ,80,Transmitted processed data,M,Z,C,2,82,MZC,82.MZC
+779,VBBR ,80,Transmitted processed data,L,Z,C,1,83,LZC,83.LZC
+780,VBBR ,80,Transmitted processed data,V,Z,C,0.5,80,VZC,80.VZC
+781,VBBR ,80,Transmitted processed data,V,Z,C,0.25,81,VZC,81.VZC
+782,VBBR ,80,Transmitted processed data,V,Z,C,0.2,82,VZC,82.VZC
+783,VBBR ,80,Transmitted processed data,V,Z,C,0.1,83,VZC,83.VZC
+784,VBBR ,80,Transmitted processed data,U,Z,C,0.05,80,UZC,80.UZC
+785,VBBR ,80,Transmitted processed data,U,Z,C,0.025,81,UZC,81.UZC
+786,VBBR ,80,Transmitted processed data,U,Z,C,0.02,82,UZC,82.UZC
+787,VBBR ,80,Transmitted processed data,U,Z,C,0.01,83,UZC,83.UZC
+788,VBBR ,80,Transmitted processed data,R,Z,C,0.005,80,RZC,80.RZC
+789,VBBR ,80,Transmitted processed data,R,Z,C,0.001,81,RZC,81.RZC
+790,VBBR ,80,Transmitted processed data,R,Z,C,1/1800,82,RZC,82.RZC
+791,VBBR ,80,Transmitted processed data,R,Z,C,1/3600,83,RZC,83.RZC
+792,SPR,20,Transmitted processed data,H,Z,C,100,20,HZC,20.HZC
+793,SPR,20,Transmitted processed data,B,Z,C,50,20,BZC,20.BZC
+794,SPR,20,Transmitted processed data,B,Z,C,25,21,BZC,21.BZC
+795,SPR,20,Transmitted processed data,B,Z,C,20,22,BZC,22.BZC
+796,SPR,20,Transmitted processed data,B,Z,C,10,23,BZC,23.BZC
+797,SPR,20,Transmitted processed data,M,Z,C,5,20,MZC,20.MZC
+798,SPR,20,Transmitted processed data,M,Z,C,4,21,MZC,21.MZC
+799,SPR,20,Transmitted processed data,M,Z,C,2,22,MZC,22.MZC
+800,SPR,20,Transmitted processed data,L,Z,C,1,23,LZC,23.LZC
+801,SPR,20,Transmitted processed data,V,Z,C,0.5,20,VZC,20.VZC
+802,SPR,20,Transmitted processed data,V,Z,C,0.25,21,VZC,21.VZC
+803,SPR,20,Transmitted processed data,V,Z,C,0.2,22,VZC,22.VZC
+804,SPR,20,Transmitted processed data,V,Z,C,0.1,23,VZC,23.VZC
+805,SPR,20,Transmitted processed data,U,Z,C,0.05,20,UZC,20.UZC
+806,SPR,20,Transmitted processed data,U,Z,C,0.025,21,UZC,21.UZC
+807,SPR,20,Transmitted processed data,U,Z,C,0.02,22,UZC,22.UZC
+808,SPR,20,Transmitted processed data,U,Z,C,0.01,23,UZC,23.UZC
+809,SPR,20,Transmitted processed data,R,Z,C,0.005,20,RZC,20.RZC
+810,SPR,20,Transmitted processed data,R,Z,C,0.001,21,RZC,21.RZC
+811,SPR,20,Transmitted processed data,R,Z,C,1/1800,22,RZC,22.RZC
+812,SPR,20,Transmitted processed data,R,Z,C,1/3600,23,RZC,23.RZC
+813,ESTAVBB,40,Transmitted processed data,L,H,Z,1,40,LHZ,40.LHZ
+814,ESTAVBB,40,Transmitted processed data,V,H,Z,0.5,40,VHZ,40.VHZ
+815,ESTAVBB,40,Transmitted processed data,V,H,Z,0.25,41,VHZ,41.VHZ
+816,ESTAVBB,40,Transmitted processed data,V,H,Z,0.2,42,VHZ,42.VHZ
+817,ESTAVBB,40,Transmitted processed data,V,H,Z,0.1,43,VHZ,43.VHZ
+818,ESTAVBB,40,Transmitted processed data,U,H,Z,0.05,40,UHZ,40.UHZ
+819,ESTAVBB,40,Transmitted processed data,U,H,Z,0.025,41,UHZ,41.UHZ
+820,ESTAVBB,40,Transmitted processed data,U,H,Z,0.02,42,UHZ,42.UHZ
+821,ESTAVBB,40,Transmitted processed data,U,H,Z,0.01,43,UHZ,43.UHZ
+822,ESTAVBB,40,Transmitted processed data,R,H,Z,0.005,40,RHZ,40.RHZ
+823,ESTAVBB,40,Transmitted processed data,R,H,Z,0.001,41,RHZ,41.RHZ
+824,ESTAVBB,40,Transmitted processed data,R,H,Z,1/1800,42,RHZ,42.RHZ
+825,ESTAVBB,40,Transmitted processed data,R,H,Z,1/3600,43,RHZ,43.RHZ
+826,MAXVBB,45,Transmitted processed data,L,Y,Z,1,45,LYZ,45.LYZ
+827,MAXVBB,45,Transmitted processed data,V,Y,Z,0.5,45,VYZ,45.VYZ
+828,MAXVBB,45,Transmitted processed data,V,Y,Z,0.25,46,VYZ,46.VYZ
+829,MAXVBB,45,Transmitted processed data,V,Y,Z,0.2,47,VYZ,47.VYZ
+830,MAXVBB,45,Transmitted processed data,V,Y,Z,0.1,48,VYZ,48.VYZ
+831,MAXVBB,45,Transmitted processed data,U,Y,Z,0.05,45,UYZ,45.UYZ
+832,MAXVBB,45,Transmitted processed data,U,Y,Z,0.025,46,UYZ,46.UYZ
+833,MAXVBB,45,Transmitted processed data,U,Y,Z,0.02,47,UYZ,47.UYZ
+834,MAXVBB,45,Transmitted processed data,U,Y,Z,0.01,48,UYZ,48.UYZ
+835,MAXVBB,45,Transmitted processed data,R,Y,Z,0.005,45,RYZ,45.RYZ
+836,MAXVBB,45,Transmitted processed data,R,Y,Z,0.001,46,RYZ,46.RYZ
+837,MAXVBB,45,Transmitted processed data,R,Y,Z,1/1800,47,RYZ,47.RYZ
+838,MAXVBB,45,Transmitted processed data,R,Y,Z,1/3600,48,RYZ,48.RYZ
+839,ESTASP,85,Transmitted processed data,L,L,Z,1,85,LLZ,85.LLZ
+840,ESTASP,85,Transmitted processed data,V,L,Z,0.5,85,VLZ,85.VLZ
+841,ESTASP,85,Transmitted processed data,V,L,Z,0.25,86,VLZ,86.VLZ
+842,ESTASP,85,Transmitted processed data,V,L,Z,0.2,87,VLZ,87.VLZ
+843,ESTASP,85,Transmitted processed data,V,L,Z,0.1,88,VLZ,88.VLZ
+844,ESTASP,85,Transmitted processed data,U,L,Z,0.05,85,ULZ,85.ULZ
+845,ESTASP,85,Transmitted processed data,U,L,Z,0.025,86,ULZ,86.ULZ
+846,ESTASP,85,Transmitted processed data,U,L,Z,0.02,87,ULZ,87.ULZ
+847,ESTASP,85,Transmitted processed data,U,L,Z,0.01,88,ULZ,88.ULZ
+848,ESTASP,85,Transmitted processed data,R,L,Z,0.005,85,RLZ,85.RLZ
+849,ESTASP,85,Transmitted processed data,R,L,Z,0.001,86,RLZ,86.RLZ
+850,ESTASP,85,Transmitted processed data,R,L,Z,1/1800,87,RLZ,87.RLZ
+851,ESTASP,85,Transmitted processed data,R,L,Z,1/3600,88,RLZ,88.RLZ
+852,MAXSP,90,Transmitted processed data,L,Y,Z,1,90,LYZ,90.LYZ
+853,MAXSP,90,Transmitted processed data,V,Y,Z,0.5,90,VYZ,90.VYZ
+854,MAXSP,90,Transmitted processed data,V,Y,Z,0.25,91,VYZ,91.VYZ
+855,MAXSP,90,Transmitted processed data,V,Y,Z,0.2,92,VYZ,92.VYZ
+856,MAXSP,90,Transmitted processed data,V,Y,Z,0.1,93,VYZ,93.VYZ
+857,MAXSP,90,Transmitted processed data,U,Y,Z,0.05,90,UYZ,90.UYZ
+858,MAXSP,90,Transmitted processed data,U,Y,Z,0.025,91,UYZ,91.UYZ
+859,MAXSP,90,Transmitted processed data,U,Y,Z,0.02,92,UYZ,92.UYZ
+860,MAXSP,90,Transmitted processed data,U,Y,Z,0.01,93,UYZ,93.UYZ
+861,MAXSP,90,Transmitted processed data,R,Y,Z,0.005,90,RYZ,90.RYZ
+862,MAXSP,90,Transmitted processed data,R,Y,Z,0.001,91,RYZ,91.RYZ
+863,MAXSP,90,Transmitted processed data,R,Y,Z,1/1800,92,RYZ,92.RYZ
+864,MAXSP,90,Transmitted processed data,R,Y,Z,1/3600,93,RYZ,93.RYZ
+865,MAGZ,20,Transmitted processed data,B,F,R,50,20,BFR,20.BFR
+866,MAGZ,20,Transmitted processed data,B,F,R,25,21,BFR,21.BFR
+867,MAGZ,20,Transmitted processed data,B,F,R,20,22,BFR,22.BFR
+868,MAGZ,20,Transmitted processed data,B,F,R,10,23,BFR,23.BFR
+869,MAGZ,20,Transmitted processed data,M,F,R,5,20,MFR,20.MFR
+870,MAGZ,20,Transmitted processed data,M,F,R,4,21,MFR,21.MFR
+871,MAGZ,20,Transmitted processed data,M,F,R,2,22,MFR,22.MFR
+872,MAGZ,20,Transmitted processed data,L,F,R,1,20,LFR,20.LFR
+873,MAGZ,20,Transmitted processed data,V,F,R,0.5,20,VFR,20.VFR
+874,MAGZ,20,Transmitted processed data,V,F,R,0.25,21,VFR,21.VFR
+875,MAGZ,20,Transmitted processed data,V,F,R,0.2,22,VFR,22.VFR
+876,MAGZ,20,Transmitted processed data,V,F,R,0.1,23,VFR,23.VFR
+877,MAGZ,20,Transmitted processed data,U,F,R,0.05,20,UFR,20.UFR
+878,MAGZ,20,Transmitted processed data,U,F,R,0.025,21,UFR,21.UFR
+879,MAGZ,20,Transmitted processed data,U,F,R,0.02,22,UFR,22.UFR
+880,MAGZ,20,Transmitted processed data,U,F,R,0.01,23,UFR,23.UFR
+881,MAGZ,20,Transmitted processed data,R,F,R,0.005,20,RFR,20.RFR
+882,MAGZ,20,Transmitted processed data,R,F,R,0.001,21,RFR,21.RFR
+883,MAGZ,20,Transmitted processed data,R,F,R,1/1800,22,RFR,22.RFR
+884,MAGZ,20,Transmitted processed data,R,F,R,1/3600,23,RFR,23.RFR
+885,ESTAP1,50,Transmitted processed data,L,D,O,1,50,LDO,50.LDO
+886,ESTAP1,50,Transmitted processed data,V,D,O,0.5,50,VDO,50.VDO
+887,ESTAP1,50,Transmitted processed data,V,D,O,0.25,51,VDO,51.VDO
+888,ESTAP1,50,Transmitted processed data,V,D,O,0.2,52,VDO,52.VDO
+889,ESTAP1,50,Transmitted processed data,V,D,O,0.1,53,VDO,53.VDO
+890,ESTAP1,50,Transmitted processed data,U,D,O,0.05,50,UDO,50.UDO
+891,ESTAP1,50,Transmitted processed data,U,D,O,0.025,51,UDO,51.UDO
+892,ESTAP1,50,Transmitted processed data,U,D,O,0.02,52,UDO,52.UDO
+893,ESTAP1,50,Transmitted processed data,U,D,O,0.01,53,UDO,53.UDO
+894,ESTAP1,50,Transmitted processed data,R,D,O,0.005,50,RDO,50.RDO
+895,ESTAP1,50,Transmitted processed data,R,D,O,0.001,51,RDO,51.RDO
+896,ESTAP1,50,Transmitted processed data,R,D,O,1/1800,52,RDO,52.RDO
+897,ESTAP1,50,Transmitted processed data,R,D,O,1/3600,53,RDO,53.RDO
+898,ESTAP2,60,Transmitted processed data,L,D,O,1,60,LDO,60.LDO
+899,ESTAP2,60,Transmitted processed data,V,D,O,0.5,60,VDO,60.VDO
+900,ESTAP2,60,Transmitted processed data,V,D,O,0.25,61,VDO,61.VDO
+901,ESTAP2,60,Transmitted processed data,V,D,O,0.2,62,VDO,62.VDO
+902,ESTAP2,60,Transmitted processed data,V,D,O,0.1,63,VDO,63.VDO
+903,ESTAP2,60,Transmitted processed data,U,D,O,0.05,60,UDO,60.UDO
+904,ESTAP2,60,Transmitted processed data,U,D,O,0.025,61,UDO,61.UDO
+905,ESTAP2,60,Transmitted processed data,U,D,O,0.02,62,UDO,62.UDO
+906,ESTAP2,60,Transmitted processed data,U,D,O,0.01,63,UDO,63.UDO
+907,ESTAP2,60,Transmitted processed data,R,D,O,0.005,60,RDO,60.RDO
+908,ESTAP2,60,Transmitted processed data,R,D,O,0.001,61,RDO,61.RDO
+909,ESTAP2,60,Transmitted processed data,R,D,O,1/1800,62,RDO,62.RDO
+910,ESTAP2,60,Transmitted processed data,R,D,O,1/3600,63,RDO,63.RDO
+911,MAXP1,70,Transmitted processed data,L,Y,O,1,70,LYO,70.LYO
+912,MAXP1,70,Transmitted processed data,V,Y,O,0.5,70,VYO,70.VYO
+913,MAXP1,70,Transmitted processed data,V,Y,O,0.25,71,VYO,71.VYO
+914,MAXP1,70,Transmitted processed data,V,Y,O,0.2,72,VYO,72.VYO
+915,MAXP1,70,Transmitted processed data,V,Y,O,0.1,73,VYO,73.VYO
+916,MAXP1,70,Transmitted processed data,U,Y,O,0.05,70,UYO,70.UYO
+917,MAXP1,70,Transmitted processed data,U,Y,O,0.025,71,UYO,71.UYO
+918,MAXP1,70,Transmitted processed data,U,Y,O,0.02,72,UYO,72.UYO
+919,MAXP1,70,Transmitted processed data,U,Y,O,0.01,73,UYO,73.UYO
+920,MAXP1,70,Transmitted processed data,R,Y,O,0.005,70,RYO,70.RYO
+921,MAXP1,70,Transmitted processed data,R,Y,O,0.001,71,RYO,71.RYO
+922,MAXP1,70,Transmitted processed data,R,Y,O,1/1800,72,RYO,72.RYO
+923,MAXP1,70,Transmitted processed data,R,Y,O,1/3600,73,RYO,73.RYO
+924,MAXP2,80,Transmitted processed data,L,Y,O,1,80,LYO,80.LYO
+925,MAXP2,80,Transmitted processed data,V,Y,O,0.5,80,VYO,80.VYO
+926,MAXP2,80,Transmitted processed data,V,Y,O,0.25,81,VYO,81.VYO
+927,MAXP2,80,Transmitted processed data,V,Y,O,0.2,82,VYO,82.VYO
+928,MAXP2,80,Transmitted processed data,V,Y,O,0.1,83,VYO,83.VYO
+929,MAXP2,80,Transmitted processed data,U,Y,O,0.05,80,UYO,80.UYO
+930,MAXP2,80,Transmitted processed data,U,Y,O,0.025,81,UYO,81.UYO
+931,MAXP2,80,Transmitted processed data,U,Y,O,0.02,82,UYO,82.UYO
+932,MAXP2,80,Transmitted processed data,U,Y,O,0.01,83,UYO,83.UYO
+933,MAXP2,80,Transmitted processed data,R,Y,O,0.005,80,RYO,80.RYO
+934,MAXP2,80,Transmitted processed data,R,Y,O,0.001,81,RYO,81.RYO
+935,MAXP2,80,Transmitted processed data,R,Y,O,1/1800,82,RYO,82.RYO
+936,MAXP2,80,Transmitted processed data,R,Y,O,1/3600,83,RYO,83.RYO
+937,ESTAM,30,Transmitted processed data,L,F,A,1,30,LFA,30.LFA
+938,ESTAM,30,Transmitted processed data,V,F,A,0.5,30,VFA,30.VFA
+939,ESTAM,30,Transmitted processed data,V,F,A,0.25,31,VFA,31.VFA
+940,ESTAM,30,Transmitted processed data,V,F,A,0.2,32,VFA,32.VFA
+941,ESTAM,30,Transmitted processed data,V,F,A,0.1,33,VFA,33.VFA
+942,ESTAM,30,Transmitted processed data,U,F,A,0.05,30,UFA,30.UFA
+943,ESTAM,30,Transmitted processed data,U,F,A,0.025,31,UFA,31.UFA
+944,ESTAM,30,Transmitted processed data,U,F,A,0.02,32,UFA,32.UFA
+945,ESTAM,30,Transmitted processed data,U,F,A,0.01,33,UFA,33.UFA
+946,ESTAM,30,Transmitted processed data,R,F,A,0.005,30,RFA,30.RFA
+947,ESTAM,30,Transmitted processed data,R,F,A,0.001,31,RFA,31.RFA
+948,ESTAM,30,Transmitted processed data,R,F,A,1/1800,32,RFA,32.RFA
+949,ESTAM,30,Transmitted processed data,R,F,A,1/3600,33,RFA,33.RFA
+950,MAXM,40,Transmitted processed data,L,Y,A,1,40,LYA,40.LYA
+951,MAXM,40,Transmitted processed data,V,Y,A,0.5,40,VYA,40.VYA
+952,MAXM,40,Transmitted processed data,V,Y,A,0.25,41,VYA,41.VYA
+953,MAXM,40,Transmitted processed data,V,Y,A,0.2,42,VYA,42.VYA
+954,MAXM,40,Transmitted processed data,V,Y,A,0.1,43,VYA,43.VYA
+955,MAXM,40,Transmitted processed data,U,Y,A,0.05,40,UYA,40.UYA
+956,MAXM,40,Transmitted processed data,U,Y,A,0.025,41,UYA,41.UYA
+957,MAXM,40,Transmitted processed data,U,Y,A,0.02,42,UYA,42.UYA
+958,MAXM,40,Transmitted processed data,U,Y,A,0.01,43,UYA,43.UYA
+959,MAXM,40,Transmitted processed data,R,Y,A,0.005,40,RYA,40.RYA
+960,MAXM,40,Transmitted processed data,R,Y,A,0.001,41,RYA,41.RYA
+961,MAXM,40,Transmitted processed data,R,Y,A,1/1800,42,RYA,42.RYA
+962,MAXM,40,Transmitted processed data,R,Y,A,1/3600,43,RYA,43.RYA
+964,E-0771 SABC_1_SAPS_CURRENT,80,Engineering format,V,E,A,0.25,80,VEA,80.VEA
+965,E-0771 SABC_1_SAPS_CURRENT,80,Engineering format,U,E,A,1/30,80,UEA,80.UEA
+966,E-0791 SABC_2_SAPS_CURRENT,81,Engineering format,V,E,A,0.25,81,VEA,81.VEA
+967,E-0791 SABC_2_SAPS_CURRENT,81,Engineering format,U,E,A,1/30,81,UEA,81.UEA
+968,E-0772 AAC_PDDU_OFC_08_CHAN_12,82,Engineering format,V,E,A,0.25,82,VEA,82.VEA
+969,E-0772 AAC_PDDU_OFC_08_CHAN_12,82,Engineering format,U,E,A,1/30,82,UEA,82.UEA
+970,E-0792  AAC_PDDU_OFC_09_CHAN_12,83,Engineering format,V,E,A,0.25,83,VEA,83.VEA
+971,E-0792  AAC_PDDU_OFC_09_CHAN_12,83,Engineering format,U,E,A,1/30,83,UEA,83.UEA
