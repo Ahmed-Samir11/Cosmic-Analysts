@@ -54,7 +54,7 @@ After understanding the data, we realized that the data compiled by the team hos
 
 We developed an app with a modern, user-friendly interface that includes detailed documentation about the challenge and our proposed solution. The app features graphs that display results and provides an area to test our AI model by uploading a Mini-SEED (mseed) file. It then plots the waveform and highlights any detected anomalies. The Following video will take you in a tour around the app.
 
-[Watch the video demo](https://drive.google.com/file/d/1eGggQXyS7_sn_L_oOIdqCWGAVqD6PTYh/view?usp=sharing)
+[Our App Video](https://drive.google.com/file/d/1eGggQXyS7_sn_L_oOIdqCWGAVqD6PTYh/view?usp=sharing)
 
 ## Requirements
 matplotlib==3.9.2
