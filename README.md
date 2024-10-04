@@ -52,6 +52,9 @@ orientation_code = {'U': 'Up',
 
 After understanding the data, we realized that the data compiled by the team hosted by the Planetary Data System Geosciences Node at Washington University in St. Louis had only a single code, bhv, which is only 1 range of frequencies among others. Therefore, we decided that our solution should work on every trace, regardless of its frequency and orientation. Moreover, since the structures of planents aren't alike, saving a pretrained model would have the opposite effect on predictions. The developed algorithm should treat every trace as a standalone and find the interval of the seismic event after training on the data points of the trace.
 
+We developed an app with a modern, user-friendly interface that includes detailed documentation about the challenge and our proposed solution. The app features graphs that display results and provides an area to test our AI model by uploading a Mini-SEED (mseed) file. It then plots the waveform and highlights any detected anomalies. The Following video will take you in a tour around the app.
+
+[Watch the video demo](https://drive.google.com/file/d/1eGggQXyS7_sn_L_oOIdqCWGAVqD6PTYh/view?usp=sharing)
 
 ## Requirements
 matplotlib==3.9.2
