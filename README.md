@@ -55,9 +55,13 @@ After understanding the data, we realized that the data compiled by the team hos
 
 ## Requirements
 matplotlib==3.9.2
+
 numpy==2.1.1
+
 obspy==1.4.1
+
 scikit_learn==1.5.2
+
 Python==3.12.7
 ## References
 1-	https://pds-geosciences.wustl.edu/insight/urn-nasa-pds-insight_seis/readme.txt
