@@ -1,5 +1,6 @@
 # Cosmic-Analysts
-
+## Summary of the Solution
+Abstractly, the solution is an automated Python script that will detect the last recorded .mseed file and detect the seismic events in a trace on a time series base. Our solution addresses the problem of transmission power required to send seismic data from unexplored plants and new space missions. The solution solves the shortcomings of algorithms such as the STA/LTA by utilizing the Isolation Forest, an unsupervised machine learning used for anomaly detection. Unlike other anomaly detection algorithms, Isolation Forest is a decision tree model that doesn’t require calculating distance or density. The model is flexible, as it is trained on each trace from scratch, which suits space missions because modifications cannot be done on the planet. Furthermore, the solution works on the time series, which allows the extraction of selected intervals within the trace instead of treating the whole trace as an anomaly.
 ## Data Preparation
 Before the resources were published, we started working on the InSight Lander mission data. At first, downloading single data files one by one was inefficient, so we devised a download script to collect all data across the stations and years.
 
